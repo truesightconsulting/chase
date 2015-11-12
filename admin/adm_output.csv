@@ -1,0 +1,6 @@
+label,group,type,tab,show_chart,show_table,chart,drilldown,dim
+excel_result,Drilldown Result,excel,0,0,0,none,0,"sales1_id,chan1_id,chan2_id"
+lob_1,LOB,sales,2,1,1,bar,1,sales1_id
+overall,overall,overall,0,0,0,none,0,all_id
+Tactic_2,Tactic,chan,1,1,1,bar,1,chan2_id
+Tactic_1,Tactic,chan,1,1,1,bar,2,"chan2_id,chan1_id"
