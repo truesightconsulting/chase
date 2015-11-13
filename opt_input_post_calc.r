@@ -57,7 +57,6 @@ if (check.error==0){
   ####################################################################################
   # Customized part:
   ####################################################################################
-  tax=0.35 # tax rate for ROI
   # format output
   summary_output=vector("list",nrow(ex.output))
   print("Note: Outputing result.")
@@ -76,7 +75,7 @@ if (check.error==0){
       temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
         round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start"),with=F],digits = 0)
       temp[,c("eff","eff_plan")]=
-        round(temp[,c("eff","eff_plan"),with=F],digits = 2)
+        round(temp[,c("eff","eff_plan"),with=F],digits = 1)
       if (dim[1]=="all_id") {
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
                         [,c("spend","decomp","value","eff","spend_start","decomp_start","value_start","eff_plan"),with=F])
@@ -96,7 +95,7 @@ if (check.error==0){
       temp[,c("spend","decomp","value")]=
         round(temp[,c("spend","decomp","value"),with=F],digits = 0)
       temp[,c("eff")]=
-        round(temp[,c("eff"),with=F],digits = 2)
+        round(temp[,c("eff"),with=F],digits = 1)
       temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
                       [,c("spend","decomp","value","eff"),with=F])
       temp=temp[order(-spend)]
