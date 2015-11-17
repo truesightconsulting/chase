@@ -70,6 +70,8 @@ if (check.error==0){
     # rename, delete col's, calc efficiency, reorder col's...
     if (ex.setup$optimization_type %in% c(3,5,9)){
       temp=temp[,':='(eff=spend/decomp,eff_plan=spend_plan/decomp_plan)]
+      temp$eff[temp$eff==Inf]=0
+      temp$eff_plan[temp$eff_plan==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
       temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
@@ -90,6 +92,7 @@ if (check.error==0){
     }else{
       temp=temp[,!c("decomp_start","value_start","spend_start"),with=F]
       temp=temp[,':='(eff=spend/decomp)]
+      temp$eff[temp$eff==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
       temp[,c("spend","decomp","value")]=
