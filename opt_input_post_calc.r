@@ -53,6 +53,34 @@ if (check.error==0){
         summary[[i]]=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
       }
     }
+    if(!is.na(ex.output$filter[i])){
+      index=grep(ex.output$filter[i],dim)
+      dim=dim[-index]
+      index=grep(ex.output$filter[i],dim1)
+      dim1=dim1[-index]
+      if (ex.setup$optimization_type %in% c(3,5,9)) {
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
+                                decomp_start=sum(value_plan_decomp),value_start=sum(value_plan_npv)),by=c(dim1)]
+        if(sum(bdgt_dim %in% dim)==0){
+          temp=data.table(summary.npv,summary.sp1)
+        }else{
+          temp=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
+        }
+      }else{
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
+                                decomp_start=sum(value_decomp_start),value_start=sum(value_npv_start)),by=c(dim1)]
+        if(sum(bdgt_dim %in% dim)==0){
+          temp=data.table(summary.npv,summary.sp1)
+        }else{
+          temp=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
+        }
+      }
+      temp=rbindlist(list(summary[[i]],temp),fill=T,use.names = T)
+      temp[is.na(temp)]="All"
+      summary[[i]]=temp
+    }
   }
   ####################################################################################
   # Customized part:
