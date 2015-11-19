@@ -149,6 +149,9 @@ if (check.error==0){
     temp$json[temp$label=="overall"]=gsub("\\[|\\]","",temp$json[temp$label=="overall"])
     dbGetQuery(conn,paste("delete from opt_output where opt_id=",opt_id,sep=""))
     dbWriteTable(conn,"opt_output",temp[,!c("output_id","dim" ),with=F],append=T,row.names = F,header=F)
+    # upload ex.output to db for scenario comparasion
+    dbGetQuery(conn,paste("delete from opt_output_drilldown where opt_id=",opt_id,sep=""))
+    dbWriteTable(conn,"opt_output_drilldown",ex.output[,!c("output_id"),with=F],append=T,row.names = F,header=F)
   }
   # output marginal
   if (!db.usage){
