@@ -64,7 +64,7 @@ if (check.error==0){
     # i=7
     dim=str_split(ex.output$dim[i],",")[[1]]
     if ("week_id" %in% dim==F){
-      temp=summary[[ex.output$label[i]]][spend!=0|spend_start!=0,!dim,with=F]
+      temp=summary[[ex.output$label[i]]][(spend!=0|spend_start!=0)&(decomp!=0|decomp_start!=0),!dim,with=F]
     }else temp=summary[[ex.output$label[i]]]
     
     # rename, delete col's, calc efficiency, reorder col's...
