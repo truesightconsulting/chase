@@ -53,11 +53,38 @@ if (check.error==0){
         summary[[i]]=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
       }
     }
+    if(!is.na(ex.output$filter[i])){
+      index=grep(ex.output$filter[i],dim)
+      dim=dim[-index]
+      index=grep(ex.output$filter[i],dim1)
+      dim1=dim1[-index]
+      if (ex.setup$optimization_type %in% c(3,5,9)) {
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
+                                decomp_start=sum(value_plan_decomp),value_start=sum(value_plan_npv)),by=c(dim1)]
+        if(sum(bdgt_dim %in% dim)==0){
+          temp=data.table(summary.npv,summary.sp1)
+        }else{
+          temp=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
+        }
+      }else{
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
+                                decomp_start=sum(value_decomp_start),value_start=sum(value_npv_start)),by=c(dim1)]
+        if(sum(bdgt_dim %in% dim)==0){
+          temp=data.table(summary.npv,summary.sp1)
+        }else{
+          temp=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
+        }
+      }
+      temp=rbindlist(list(summary[[i]],temp),fill=T,use.names = T)
+      temp[is.na(temp)]="All"
+      summary[[i]]=temp
+    }
   }
   ####################################################################################
   # Customized part:
   ####################################################################################
-  tax=0.35 # tax rate for ROI
   # format output
   summary_output=vector("list",nrow(ex.output))
   print("Note: Outputing result.")
@@ -65,44 +92,51 @@ if (check.error==0){
     # i=7
     dim=str_split(ex.output$dim[i],",")[[1]]
     if ("week_id" %in% dim==F){
-      temp=summary[[ex.output$label[i]]][spend!=0|spend_start!=0,!dim,with=F]
+      temp=summary[[ex.output$label[i]]][(spend!=0|spend_start!=0)&(decomp!=0|decomp_start!=0),!dim,with=F]
     }else temp=summary[[ex.output$label[i]]]
     
     # rename, delete col's, calc efficiency, reorder col's...
     if (ex.setup$optimization_type %in% c(3,5,9)){
-      temp=temp[,':='(eff=spend/decomp,eff_plan=spend_plan/decomp_plan)]
+      temp=temp[,':='(eff1=spend/decomp,eff1_start=spend_start/decomp_start,
+                      eff2=value/spend,eff2_start=value_start/spend_start)]
+      temp$eff1[temp$eff1==Inf]=0
+      temp$eff1_start[temp$eff1_start==Inf]=0
+      temp$eff2[temp$eff2==Inf]=0
+      temp$eff2_start[temp$eff2_start==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
       temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
         round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start"),with=F],digits = 0)
-      temp[,c("eff","eff_plan")]=
-        round(temp[,c("eff","eff_plan"),with=F],digits = 2)
+      temp[,c("eff1","eff1_start","eff2","eff2_start")]=
+        round(temp[,c("eff1","eff1_start","eff2","eff2_start"),with=F],digits = 1)
       if (dim[1]=="all_id") {
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                        [,c("spend","decomp","value","eff","spend_start","decomp_start","value_start","eff_plan"),with=F])
+                        [,c("spend","decomp","value","eff1","eff2","spend_start","decomp_start","value_start","eff1_start","eff2_start"),with=F])
       } else{
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                        [,c("spend","spend_start","decomp","decomp_start","value","value_start","eff","eff_plan"),with=F])
+                        [,c("spend","spend_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),with=F])
       }
       temp=temp[order(-spend)]
-      setnames(temp,c("spend","spend_start","decomp","decomp_start","value","value_start","eff","eff_plan"),
-               c("Spend","Planned Spend","Accounts","Planned Accounts","Value","Planned Value","CPA","Planned CPA"))
-      temp=temp[,!c("Value","Planned Value"),with=F]
+      setnames(temp,c("spend","spend_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),
+               c("Spend","Planned Spend","Accounts","Planned Accounts","Value","Planned Value","CPA","Planned CPA","ROI","Planned ROI"))
+      #temp=temp[,!c("Value","Planned Value"),with=F]
     }else{
       temp=temp[,!c("decomp_start","value_start","spend_start"),with=F]
-      temp=temp[,':='(eff=spend/decomp)]
+      temp=temp[,':='(eff1=spend/decomp,eff2=value/spend)]
+      temp$eff1[temp$eff1==Inf]=0
+      temp$eff2[temp$eff2==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
       temp[,c("spend","decomp","value")]=
         round(temp[,c("spend","decomp","value"),with=F],digits = 0)
-      temp[,c("eff")]=
-        round(temp[,c("eff"),with=F],digits = 2)
+      temp[,c("eff1","eff2")]=
+        round(temp[,c("eff1","eff2"),with=F],digits = 1)
       temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                      [,c("spend","decomp","value","eff"),with=F])
+                      [,c("spend","decomp","value","eff1","eff2"),with=F])
       temp=temp[order(-spend)]
-      setnames(temp,c("spend","decomp","value","eff"),
-               c("Spend","Accounts","Value","CPA"))
-      temp=temp[,!c("Value"),with=F]
+      setnames(temp,c("spend","decomp","value","eff1","eff2"),
+               c("Spend","Accounts","Value","CPA","ROI"))
+      #temp=temp[,!c("Value"),with=F]
     }
     # delete dimension columns for overall output table
     if (dim[1]=="all_id"){
@@ -147,6 +181,9 @@ if (check.error==0){
     temp$json[temp$label=="overall"]=gsub("\\[|\\]","",temp$json[temp$label=="overall"])
     dbGetQuery(conn,paste("delete from opt_output where opt_id=",opt_id,sep=""))
     dbWriteTable(conn,"opt_output",temp[,!c("output_id","dim" ),with=F],append=T,row.names = F,header=F)
+    # upload ex.output to db for scenario comparasion
+    dbGetQuery(conn,paste("delete from opt_output_drilldown where opt_id=",opt_id,sep=""))
+    dbWriteTable(conn,"opt_output_drilldown",ex.output[,!c("output_id"),with=F],append=T,row.names = F,header=F)
   }
   # output marginal
   if (!db.usage){

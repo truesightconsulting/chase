@@ -4,6 +4,12 @@ print("Note: Calculating Curve Parameters")
 ####################################################################################
 # Customized part:
 ####################################################################################
+# merge clv table
+curve=merge(curve,ex.clv[,c("sales1_id","clv","approval"),with=F],by=c("sales1_id"),all.x=T)
+
+# tweak a based on approval
+curve$a=curve$a*curve$approval
+
 # set a based on clv value
 curve$a.decomp=curve$a
 if(ex.setup$optimization_target==2){

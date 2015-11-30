@@ -31,7 +31,7 @@ if (db.usage){
   }
   ex.output=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_output where client_id=",client_id,sep="")))
   ex.output=ex.output[,!"client_id",with=F]
-  
+  ex.clv=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_clv where client_id=",client_id,sep="")))
   ex.curve=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_curve where client_id=",client_id,sep="")))
   dim=data.table(dbGetQuery(conn,paste("select * from opt_modules_dim where client_id=",client_id,sep="")))$dim
   for (i in 1:length(dim)){
