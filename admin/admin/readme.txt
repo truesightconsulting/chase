@@ -1,6 +1,5 @@
 adm_curve
 TRIM all _name column first!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-multiply b BY CPP AS THE NEW b!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 adm_setup
 update: y means update, n means create a new client

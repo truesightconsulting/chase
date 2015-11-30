@@ -1,42 +1,81 @@
 a,b,cpp,all_name,curvegroup_name,dma1_name,chan1_name,sales1_name,chan2_name
-2967.110048,4.43E-08,0.008120951,overall,weekly,National,Freedom,Freedom Card - New Applications,Online Display
-1800.28713,1.47E-07,0.014754522,overall,weekly,National,Freedom,Freedom Card - New Applications,Online Video
-4856.963394,1.93E-01,21107.96999,overall,weekly,National,Freedom,Freedom Card - New Applications,Television
-12852.7123,5.08E-07,0.438161596,overall,weekly,National,Freedom,Freedom Card - New Applications,Direct Mail
-379.1598207,2.81E-06,0.039609181,overall,weekly,National,Freedom,Freedom Card - New Applications,Magazine
-417114.83,2.16E-05,4.120995135,overall,weekly,National,Freedom,Freedom Card - New Applications,Affiliates
-1482.446485,3.61E-02,21107.96999,overall,weekly,National,Freedom,Slate Card - New Applications,Television
-979.4034788,3.55E-02,21107.96999,overall,weekly,National,Freedom,Sapphire Card - New Applications,Television
-1265.996436,1.01E-07,0.003943428,overall,weekly,National,Ink,Ink Card - New Applications,Online Display
-668.0706255,1.05E+00,137406.6177,overall,weekly,National,Ink,Ink Card - New Applications,Television
-396.8042796,3.29E-04,7.317207445,overall,weekly,National,Ink,Ink Card - New Applications,Paid Search
-3930.31601,3.59E-07,0.683361067,overall,weekly,National,Ink,Ink Card - New Applications,Direct Mail
-65682.05825,2.84E-05,1.607016695,overall,weekly,National,Ink,Ink Card - New Applications,Affiliates
-540.9008679,7.45E-09,0.003943428,overall,weekly,National,Ink,Business Checking - New Checking Accounts,Online Display
-296.6831986,2.23E-01,137406.6177,overall,weekly,National,Ink,Business Checking - New Checking Accounts,Television
-1474.163534,1.50E-01,17729.75843,overall,weekly,National,Sapphire,Freedom Card - New Applications,Television
-3168.777586,2.43E-09,0.004731433,overall,weekly,National,Sapphire,Slate Card - New Applications,Online Display
-717.6304169,1.68E-08,0.004731433,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Online Display
-726.557733,9.91E-08,0.019784837,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Online Video
-871.2456736,6.13E-02,17729.75843,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Television
-1333.446351,2.98E-06,0.963898147,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Direct Mail
-1204.962947,2.40E-07,0.079665759,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Magazine
-158654.2768,5.09E-05,1.334889608,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Affiliates
-36916.46742,2.83E-08,0.328408769,overall,weekly,National,Slate,Slate Card - New Applications,Direct Mail
-412128.5786,4.52E-05,1.983244969,overall,weekly,National,Slate,Slate Card - New Applications,Affiliates
-1516.583629,4.20E-06,1,overall,weekly,National,Consumer,Freedom Card - New Applications,Television
-1839.104652,6.73E-06,0.538227198,overall,weekly,National,Consumer,Freedom Card - New Applications,Paid Search
-10743.00633,3.87E-08,0.563948789,overall,weekly,National,Consumer,Freedom Card - New Applications,Direct Mail
-485.1978866,3.61E-07,1,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Television
-269.8498041,2.74E-06,0.538227198,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Paid Search
-729.2612344,5.27E-07,0.563948789,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Direct Mail
-336.8602529,9.10E-08,0.005352086,overall,weekly,National,Business,Business Checking - New Checking Accounts,Online Display
-410.2442338,2.45E-07,0.019931938,overall,weekly,National,Business,Business Checking - New Checking Accounts,Online Video
-1176.039191,3.19E-04,267.8666828,overall,weekly,National,Business,Business Checking - New Checking Accounts,Radio
-220.9618275,1.04E-06,0.043741177,overall,weekly,National,Business,Business Checking - New Checking Accounts,Newspaper
-207.03695,1.17E+00,265689.8235,overall,weekly,National,Partner,Sapphire Card - New Applications,Newspaper
-435.0098823,3.12E-05,1.802442001,overall,weekly,National,Partner,Sapphire Card - New Applications,Paid Search
-7988.656918,7.10E-05,1.957298839,overall,weekly,National,Multicard,Freedom Card - New Applications,Paid Search
-278.2247411,2.19E-05,1.957298839,overall,weekly,National,Multicard,Ink Card - New Applications,Paid Search
-8442.377106,9.57E-06,1.957298839,overall,weekly,National,Multicard,Slate Card - New Applications,Paid Search
-3076.80044,2.11E-05,1.957298839,overall,weekly,National,Multicard,Sapphire Card - New Applications,Paid Search
+2966.810162,4.43E-08,0.008120951,overall,weekly,National,Freedom,Freedom Card - New Applications,Online Display
+9046.966908,7.45E-05,4.554955766,overall,weekly,National,Freedom,Freedom Card - New Applications,Affiliates
+1786.010228,1.49E-07,0.014754522,overall,weekly,National,Freedom,Freedom Card - New Applications,Online Video
+4907.418806,3.66E-01,53817.61961,overall,weekly,National,Freedom,Freedom Card - New Applications,Television
+12803.293,5.12E-07,0.438161596,overall,weekly,National,Freedom,Freedom Card - New Applications,Direct Mail
+378.5977857,2.82E-06,0.039609181,overall,weekly,National,Freedom,Freedom Card - New Applications,Magazine
+1772.44853,6.83E-02,53817.61961,overall,weekly,National,Freedom,Slate Card - New Applications,Television
+1173.577733,6.72E-02,53817.61961,overall,weekly,National,Freedom,Sapphire Card - New Applications,Television
+277.706768,2.35E-08,0.007263246,overall,weekly,National,Partner,Sapphire Card - New Applications,Newspaper
+443.1176649,2.91E-05,1.804663089,overall,weekly,National,Partner,Sapphire Card - New Applications,Paid Search
+153.8316106,1.54361E-06,0.010557155,overall,weekly,National,Retail Other,Consumer Checking - New Checking Accounts,Online Display
+8008.80541,5.64E-05,1.957298839,overall,weekly,National,Multicard,Freedom Card - New Applications,Paid Search
+282.5965696,2.07E-05,1.957298839,overall,weekly,National,Multicard,Ink Card - New Applications,Paid Search
+8410.852249,9.62E-06,1.957298839,overall,weekly,National,Multicard,Slate Card - New Applications,Paid Search
+3062.938452,2.14E-05,1.957298839,overall,weekly,National,Multicard,Sapphire Card - New Applications,Paid Search
+1265.135341,1.02E-07,0.003943428,overall,weekly,National,Ink,Ink Card - New Applications,Online Display
+3758.680149,2.88E-05,1.72612936,overall,weekly,National,Ink,Ink Card - New Applications,Affiliates
+667.7819553,1.05E+00,137406.6177,overall,weekly,National,Ink,Ink Card - New Applications,Television
+400.1858288,3.23E-04,7.317207445,overall,weekly,National,Ink,Ink Card - New Applications,Paid Search
+3399.435279,6.99E-07,0.683361067,overall,weekly,National,Ink,Ink Card - New Applications,Direct Mail
+544.9607285,7.41E-09,0.003943428,overall,weekly,National,Ink,Business Checking - New Checking Accounts,Online Display
+299.567581,2.20E-01,137406.6177,overall,weekly,National,Ink,Business Checking - New Checking Accounts,Television
+1493.303541,9.68E-01,155062.4744,overall,weekly,National,Sapphire,Freedom Card - New Applications,Television
+3157.127341,2.44E-09,0.004731433,overall,weekly,National,Sapphire,Slate Card - New Applications,Online Display
+725.1297127,1.66E-08,0.004731433,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Online Display
+3318.106062,0.00023758,1.611003585,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Affiliates
+726.6863768,9.91E-08,0.019784837,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Online Video
+954.041958,4.04E-01,155062.4744,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Television
+1339.316765,2.95E-06,0.963898147,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Direct Mail
+1204.942558,2.40E-07,0.079665759,overall,weekly,National,Sapphire,Sapphire Card - New Applications,Magazine
+8586.997785,0.000322387,2.326009916,overall,weekly,National,Slate,Slate Card - New Applications,Affiliates
+36944.28699,2.83E-08,0.328408769,overall,weekly,National,Slate,Slate Card - New Applications,Direct Mail
+1517.552825,4.08E-06,1,overall,weekly,National,Consumer,Freedom Card - New Applications,Television
+1850.723248,7.22E-06,0.593806978,overall,weekly,National,Consumer,Freedom Card - New Applications,Paid Search
+10761.47789,3.86E-08,0.563948789,overall,weekly,National,Consumer,Freedom Card - New Applications,Direct Mail
+482.9872285,3.61E-07,1,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Television
+267.5418599,3.07E-06,0.593806978,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Paid Search
+722.4302133,5.38E-07,0.563948789,overall,weekly,National,Consumer,Business Checking - New Checking Accounts,Direct Mail
+1254.113134,4.3891E-07,0.004315422,overall,weekly,National,Consumer,Consumer Checking - New Checking Accounts,Online Display
+239.8258809,1.15E-03,66.46295116,overall,weekly,National,Consumer,Consumer Checking - New Checking Accounts,Radio
+21126.73624,1.84E-07,0.563948789,overall,weekly,National,Consumer,Consumer Checking - New Checking Accounts,Direct Mail
+1765.69972,1.18E-06,1,overall,weekly,National,Consumer,Consumer Savings - New Savings Accounts,Television
+74.83285513,1.13E-03,66.46295116,overall,weekly,National,Consumer,Consumer Savings - New Savings Accounts,Radio
+6017.133934,3.43E-07,0.563948789,overall,weekly,National,Consumer,Consumer Savings - New Savings Accounts,Direct Mail
+31236171.14,1.95E-07,0.563948789,overall,weekly,National,Consumer,Consumer Checking - Total Balances,Direct Mail
+17948061.2,1.17E-06,1,overall,weekly,National,Consumer,Consumer Savings - Total Balances,Television
+107022.5449,9.91E-04,66.46295116,overall,weekly,National,Consumer,Consumer Savings - Total Balances,Radio
+99629461.46,7.14E-07,0.563948789,overall,weekly,National,Consumer,Consumer Savings - Total Balances,Direct Mail
+257.9625652,1.15E-07,0.008429469,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Online Video
+2094.443353,3.96E-06,1,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Television
+130.1484254,2.23E-06,0.032050917,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Newspaper
+1427.32245,1.88E-05,0.611073376,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Paid Search
+199.991048,5.34E-06,0.119977895,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Magazine
+3.786724838,2.47238E-05,0.134547936,overall,weekly,National,Retail Total,Consumer Checking - New Checking Accounts,Outdoor
+955.1987053,1.69E-07,0.004165412,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Online Display
+21.88289531,0.005346393,1,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Trade Magazine
+840.1836809,6.78E-08,0.008429469,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Online Video
+118.968535,9.81E-07,0.032050917,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Newspaper
+254.4438115,1.23E-05,0.611073376,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Paid Search
+1.780981846,1.49733E-05,0.134547936,overall,weekly,National,Retail Total,Consumer Savings - New Savings Accounts,Outdoor
+4311715.233,5.07E-08,0.004165412,overall,weekly,National,Retail Total,Consumer Checking - Total Balances,Online Display
+7301805.634,3.06E-08,0.008429469,overall,weekly,National,Retail Total,Consumer Checking - Total Balances,Online Video
+10721536.79,4.22E-06,1,overall,weekly,National,Retail Total,Consumer Checking - Total Balances,Television
+4095526.122,3.32E-06,0.611073376,overall,weekly,National,Retail Total,Consumer Checking - Total Balances,Paid Search
+769534.277,3.44E-06,0.119977895,overall,weekly,National,Retail Total,Consumer Checking - Total Balances,Magazine
+8949299.439,5.13E-08,0.004165412,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Online Display
+12044246.01,6.73E-08,0.008429469,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Online Video
+357759.7525,1.43E-06,0.032050917,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Newspaper
+12067472.16,7.23E-06,0.611073376,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Paid Search
+4643478.634,4.62E-06,0.119977895,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Magazine
+26968.59912,6.88E-06,0.134547936,overall,weekly,National,Retail Total,Consumer Savings - Total Balances,Outdoor
+4405.511711,2.49E-07,1,overall,weekly,National,Card Total,Consumer Checking - New Checking Accounts,Television
+835.6968353,9.08E-08,0.008232192,overall,weekly,National,Card Total,Consumer Checking - New Checking Accounts,Newspaper
+891.440804,2.87E-07,0.074073514,overall,weekly,National,Card Total,Consumer Checking - New Checking Accounts,Magazine
+2056.373441,1.06E-06,1,overall,weekly,National,Card Total,Consumer Savings - New Savings Accounts,Television
+335.2685362,9.22E-08,0.005352086,overall,weekly,National,Business,Business Checking - New Checking Accounts,Online Display
+411.4412351,2.45E-07,0.019931938,overall,weekly,National,Business,Business Checking - New Checking Accounts,Online Video
+1177.552811,3.18E-04,267.8666828,overall,weekly,National,Business,Business Checking - New Checking Accounts,Radio
+220.1035181,1.04E-06,0.043741177,overall,weekly,National,Business,Business Checking - New Checking Accounts,Newspaper
+207.6005721,4.85E-06,0.206318915,overall,weekly,National,Corporate Total,Consumer Savings - New Savings Accounts,Newspaper

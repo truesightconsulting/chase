@@ -207,6 +207,110 @@ week_id,sales1_name,factor
 50,Sapphire Card - New Applications,0
 51,Sapphire Card - New Applications,0
 52,Sapphire Card - New Applications,0
+1,Consumer Savings - New Savings Accounts,10336.50324
+2,Consumer Savings - New Savings Accounts,10336.50324
+3,Consumer Savings - New Savings Accounts,10336.50324
+4,Consumer Savings - New Savings Accounts,10336.50324
+5,Consumer Savings - New Savings Accounts,10336.50324
+6,Consumer Savings - New Savings Accounts,10333.20094
+7,Consumer Savings - New Savings Accounts,9722.571742
+8,Consumer Savings - New Savings Accounts,9718.201352
+9,Consumer Savings - New Savings Accounts,15655.35712
+10,Consumer Savings - New Savings Accounts,15654.18406
+11,Consumer Savings - New Savings Accounts,20633.23127
+12,Consumer Savings - New Savings Accounts,20628.05758
+13,Consumer Savings - New Savings Accounts,24904.45593
+14,Consumer Savings - New Savings Accounts,24909.26034
+15,Consumer Savings - New Savings Accounts,16696.67243
+16,Consumer Savings - New Savings Accounts,16694.01139
+17,Consumer Savings - New Savings Accounts,14138.57627
+18,Consumer Savings - New Savings Accounts,14137.24886
+19,Consumer Savings - New Savings Accounts,8895.330637
+20,Consumer Savings - New Savings Accounts,8896.920227
+21,Consumer Savings - New Savings Accounts,9285.375858
+22,Consumer Savings - New Savings Accounts,9285.825568
+23,Consumer Savings - New Savings Accounts,5270.743497
+24,Consumer Savings - New Savings Accounts,5271.384712
+25,Consumer Savings - New Savings Accounts,3936.696002
+26,Consumer Savings - New Savings Accounts,3936.600316
+27,Consumer Savings - New Savings Accounts,7528.099839
+28,Consumer Savings - New Savings Accounts,7529.006873
+29,Consumer Savings - New Savings Accounts,7547.502556
+30,Consumer Savings - New Savings Accounts,7546.783754
+31,Consumer Savings - New Savings Accounts,8486.859799
+32,Consumer Savings - New Savings Accounts,8484.883531
+33,Consumer Savings - New Savings Accounts,6449.843272
+34,Consumer Savings - New Savings Accounts,6448.886497
+35,Consumer Savings - New Savings Accounts,8355.939056
+36,Consumer Savings - New Savings Accounts,8356.880242
+37,Consumer Savings - New Savings Accounts,10024.10035
+38,Consumer Savings - New Savings Accounts,10028.28882
+39,Consumer Savings - New Savings Accounts,8474.812845
+40,Consumer Savings - New Savings Accounts,8471.747009
+41,Consumer Savings - New Savings Accounts,0
+42,Consumer Savings - New Savings Accounts,0
+43,Consumer Savings - New Savings Accounts,4138.780214
+44,Consumer Savings - New Savings Accounts,4138.69799
+45,Consumer Savings - New Savings Accounts,770.271938
+46,Consumer Savings - New Savings Accounts,770.330784
+47,Consumer Savings - New Savings Accounts,0
+48,Consumer Savings - New Savings Accounts,0
+49,Consumer Savings - New Savings Accounts,0
+50,Consumer Savings - New Savings Accounts,0
+51,Consumer Savings - New Savings Accounts,0
+52,Consumer Savings - New Savings Accounts,0
+1,Consumer Checking - New Checking Accounts,5419.887581
+2,Consumer Checking - New Checking Accounts,5419.887581
+3,Consumer Checking - New Checking Accounts,5419.887581
+4,Consumer Checking - New Checking Accounts,5419.887581
+5,Consumer Checking - New Checking Accounts,5419.887581
+6,Consumer Checking - New Checking Accounts,5419.481608
+7,Consumer Checking - New Checking Accounts,0
+8,Consumer Checking - New Checking Accounts,0
+9,Consumer Checking - New Checking Accounts,5547.46351
+10,Consumer Checking - New Checking Accounts,5548.085201
+11,Consumer Checking - New Checking Accounts,9346.808773
+12,Consumer Checking - New Checking Accounts,9348.308543
+13,Consumer Checking - New Checking Accounts,14318.11392
+14,Consumer Checking - New Checking Accounts,14318.04611
+15,Consumer Checking - New Checking Accounts,0
+16,Consumer Checking - New Checking Accounts,0
+17,Consumer Checking - New Checking Accounts,5720.482556
+18,Consumer Checking - New Checking Accounts,5720.300633
+19,Consumer Checking - New Checking Accounts,4951.59994
+20,Consumer Checking - New Checking Accounts,4951.419696
+21,Consumer Checking - New Checking Accounts,4194.550818
+22,Consumer Checking - New Checking Accounts,4195.566179
+23,Consumer Checking - New Checking Accounts,3568.993331
+24,Consumer Checking - New Checking Accounts,3569.39312
+25,Consumer Checking - New Checking Accounts,5419.151504
+26,Consumer Checking - New Checking Accounts,5419.114178
+27,Consumer Checking - New Checking Accounts,10501.83553
+28,Consumer Checking - New Checking Accounts,10502.09101
+29,Consumer Checking - New Checking Accounts,12109.63887
+30,Consumer Checking - New Checking Accounts,12108.9838
+31,Consumer Checking - New Checking Accounts,13679.33353
+32,Consumer Checking - New Checking Accounts,13676.98311
+33,Consumer Checking - New Checking Accounts,13189.66492
+34,Consumer Checking - New Checking Accounts,13190.97234
+35,Consumer Checking - New Checking Accounts,18627.5383
+36,Consumer Checking - New Checking Accounts,18626.56213
+37,Consumer Checking - New Checking Accounts,22648.22165
+38,Consumer Checking - New Checking Accounts,22647.84168
+39,Consumer Checking - New Checking Accounts,16393.91238
+40,Consumer Checking - New Checking Accounts,16392.27507
+41,Consumer Checking - New Checking Accounts,8103.737567
+42,Consumer Checking - New Checking Accounts,8103.903928
+43,Consumer Checking - New Checking Accounts,4541.881266
+44,Consumer Checking - New Checking Accounts,4541.874046
+45,Consumer Checking - New Checking Accounts,0
+46,Consumer Checking - New Checking Accounts,0
+47,Consumer Checking - New Checking Accounts,0
+48,Consumer Checking - New Checking Accounts,0
+49,Consumer Checking - New Checking Accounts,0
+50,Consumer Checking - New Checking Accounts,0
+51,Consumer Checking - New Checking Accounts,-9446.11752
+52,Consumer Checking - New Checking Accounts,-9443.721459
 1,Business Checking - New Checking Accounts,2540.255863
 2,Business Checking - New Checking Accounts,2540.255863
 3,Business Checking - New Checking Accounts,2540.255863
@@ -259,3 +363,107 @@ week_id,sales1_name,factor
 50,Business Checking - New Checking Accounts,0
 51,Business Checking - New Checking Accounts,0
 52,Business Checking - New Checking Accounts,0
+1,Consumer Savings - Total Balances,36429123.06
+2,Consumer Savings - Total Balances,36429123.06
+3,Consumer Savings - Total Balances,36429123.06
+4,Consumer Savings - Total Balances,36429123.06
+5,Consumer Savings - Total Balances,36429123.06
+6,Consumer Savings - Total Balances,41153803.84
+7,Consumer Savings - Total Balances,0
+8,Consumer Savings - Total Balances,0
+9,Consumer Savings - Total Balances,0
+10,Consumer Savings - Total Balances,0
+11,Consumer Savings - Total Balances,0
+12,Consumer Savings - Total Balances,0
+13,Consumer Savings - Total Balances,0
+14,Consumer Savings - Total Balances,0
+15,Consumer Savings - Total Balances,0
+16,Consumer Savings - Total Balances,0
+17,Consumer Savings - Total Balances,0
+18,Consumer Savings - Total Balances,0
+19,Consumer Savings - Total Balances,0
+20,Consumer Savings - Total Balances,0
+21,Consumer Savings - Total Balances,0
+22,Consumer Savings - Total Balances,0
+23,Consumer Savings - Total Balances,34758964.71
+24,Consumer Savings - Total Balances,34744392.26
+25,Consumer Savings - Total Balances,0
+26,Consumer Savings - Total Balances,0
+27,Consumer Savings - Total Balances,0
+28,Consumer Savings - Total Balances,0
+29,Consumer Savings - Total Balances,23010384.02
+30,Consumer Savings - Total Balances,22256888.88
+31,Consumer Savings - Total Balances,0
+32,Consumer Savings - Total Balances,0
+33,Consumer Savings - Total Balances,0
+34,Consumer Savings - Total Balances,0
+35,Consumer Savings - Total Balances,0
+36,Consumer Savings - Total Balances,0
+37,Consumer Savings - Total Balances,0
+38,Consumer Savings - Total Balances,0
+39,Consumer Savings - Total Balances,0
+40,Consumer Savings - Total Balances,0
+41,Consumer Savings - Total Balances,0
+42,Consumer Savings - Total Balances,0
+43,Consumer Savings - Total Balances,0
+44,Consumer Savings - Total Balances,0
+45,Consumer Savings - Total Balances,0
+46,Consumer Savings - Total Balances,0
+47,Consumer Savings - Total Balances,0
+48,Consumer Savings - Total Balances,0
+49,Consumer Savings - Total Balances,0
+50,Consumer Savings - Total Balances,0
+51,Consumer Savings - Total Balances,56780254.91
+52,Consumer Savings - Total Balances,37032453.51
+1,Consumer Checking - Total Balances,52465086.84
+2,Consumer Checking - Total Balances,52465086.84
+3,Consumer Checking - Total Balances,52465086.84
+4,Consumer Checking - Total Balances,52465086.84
+5,Consumer Checking - Total Balances,52465086.84
+6,Consumer Checking - Total Balances,60029056.9
+7,Consumer Checking - Total Balances,0
+8,Consumer Checking - Total Balances,0
+9,Consumer Checking - Total Balances,20340183.38
+10,Consumer Checking - Total Balances,20671060.59
+11,Consumer Checking - Total Balances,13977035.76
+12,Consumer Checking - Total Balances,14107555.24
+13,Consumer Checking - Total Balances,29032453.47
+14,Consumer Checking - Total Balances,29520016.94
+15,Consumer Checking - Total Balances,21943789.74
+16,Consumer Checking - Total Balances,23216956.36
+17,Consumer Checking - Total Balances,15890279.3
+18,Consumer Checking - Total Balances,16307261.6
+19,Consumer Checking - Total Balances,20597102.38
+20,Consumer Checking - Total Balances,19825990.18
+21,Consumer Checking - Total Balances,12247427.7
+22,Consumer Checking - Total Balances,12678848.13
+23,Consumer Checking - Total Balances,16314413.39
+24,Consumer Checking - Total Balances,16661085.38
+25,Consumer Checking - Total Balances,0
+26,Consumer Checking - Total Balances,0
+27,Consumer Checking - Total Balances,18383729.53
+28,Consumer Checking - Total Balances,17446330.23
+29,Consumer Checking - Total Balances,0
+30,Consumer Checking - Total Balances,0
+31,Consumer Checking - Total Balances,0
+32,Consumer Checking - Total Balances,0
+33,Consumer Checking - Total Balances,0
+34,Consumer Checking - Total Balances,0
+35,Consumer Checking - Total Balances,19309245.96
+36,Consumer Checking - Total Balances,20917493.9
+37,Consumer Checking - Total Balances,0
+38,Consumer Checking - Total Balances,0
+39,Consumer Checking - Total Balances,0
+40,Consumer Checking - Total Balances,0
+41,Consumer Checking - Total Balances,0
+42,Consumer Checking - Total Balances,0
+43,Consumer Checking - Total Balances,11365756.95
+44,Consumer Checking - Total Balances,11112292.5
+45,Consumer Checking - Total Balances,16312343.8
+46,Consumer Checking - Total Balances,15562154.44
+47,Consumer Checking - Total Balances,0
+48,Consumer Checking - Total Balances,0
+49,Consumer Checking - Total Balances,31148977.4
+50,Consumer Checking - Total Balances,27440811.96
+51,Consumer Checking - Total Balances,0
+52,Consumer Checking - Total Balances,0
