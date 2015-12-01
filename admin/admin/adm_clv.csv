@@ -2,8 +2,8 @@ sales1_name,clv,approval
 Consumer Checking - New Checking Accounts,209,1
 Consumer Savings - New Savings Accounts,200,1
 Business Checking - New Checking Accounts,418,1
-Consumer Savings - Average Balance per Account,0.08,1
-Consumer Checking - Average Balance per Account,0.12,1
+Consumer Savings - Total Balances,0.08,1
+Consumer Checking - Total Balances,0.12,1
 Freedom Card - New Applications,409.6774194,0.43
 Sapphire Card - New Applications,1753.693548,0.62
 Slate Card - New Applications,445.2096774,0.55
