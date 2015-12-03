@@ -47,7 +47,7 @@ Consumer Checking - New Checking Accounts,Magazine,Retail Total,National,overall
 Consumer Checking - New Checking Accounts,Magazine,Card Total,National,overall,234965.5279,532.323017,22180543,0.074073514,0.3,0.45,1
 Consumer Checking - New Checking Accounts,Outdoor,Retail Total,National,overall,4107.916667,2.006655409,293100,0.134547936,0.6,0.45,1
 Consumer Checking - New Checking Accounts,Direct Mail,Consumer,National,overall,1567480.208,8448.932413,14309581,0.563948789,2,0.15,1
-Consumer Savings - New Savings Accounts,Television,Consumer,National,overall,1261701.504,1366.891258,2453696.3,1,4,0.15,1
+Consumer Savings - New Savings Accounts,Television,Retail Total,National,overall,1293105.356,1366.891258,2514374.4,1,4,0.15,1
 Consumer Savings - New Savings Accounts,Television,Card Total,National,overall,1955902.756,1797.321218,9035219.5,1,2,0.45,1
 Consumer Savings - New Savings Accounts,Radio,Consumer,National,overall,93149.34917,59.39246287,6382.2,66.46295116,0.6,0.45,1
 Consumer Savings - New Savings Accounts,Online Display,Retail Total,National,overall,178465.2813,954.5062896,73974291,0.004165412,1,0.6,1
@@ -68,7 +68,7 @@ Consumer Savings - Total Balances,Radio,Consumer,National,overall,93149.34917,80
 Consumer Savings - Total Balances,Outdoor,Retail Total,National,overall,4107.916667,5110.093563,293100,0.134547936,0.6,0.15,1
 Consumer Savings - Total Balances,Newspaper,Retail Total,National,overall,32026.04396,272413.0345,4414801,0.032050917,0.3,0.45,1
 Consumer Savings - Total Balances,Paid Search,Retail Total,National,overall,195081.0631,10869168.11,597455,0.611073376,0.6,0.3,1
-Consumer Savings - Total Balances,Television,Consumer,National,overall,1261701.504,13847336.13,2453696.3,1,4,0.15,1
+Consumer Savings - Total Balances,Television,Retail Total,National,overall,1293105.356,13847336.13,2514374.4,1,4,0.15,1
 Consumer Savings - Total Balances,Online Video,Retail Total,National,overall,185947.9569,9317897.606,56460321,0.008429469,0.3,0.3,1
 Consumer Savings - Total Balances,Online Display,Retail Total,National,overall,178465.2813,7957344.424,73974291,0.004165412,0.3,0.3,1
 Consumer Savings - Total Balances,Magazine,Retail Total,National,overall,27241.04104,3017251.263,2086763,0.119977895,2,0.45,1
@@ -79,4 +79,4 @@ Slate Card - New Applications,Affiliates,Slate,National,overall,65456.875,8586.0
 Sapphire Card - New Applications,Affiliates,Sapphire,National,overall,37681.54167,3305.297433,30059,1.611003585,0.6,0.45,1
 Slate Card - New Applications,Paid Search,Partner,National,overall,73581.60333,445.6078612,68065,1.804663089,3,0.15,1
 Slate Card - New Applications,Online Display,Freedom,National,overall,78379.72854,211.9008971,80454855,0.008120951,0.6,0.3,1
-Consumer Checking - New Checking Accounts,Online Display,Retail Total,National,overall,12204.7125,572.8197621,22139336,0.005121124,0.3,0.6,1
+Consumer Checking - New Checking Accounts,Online Display,Retail Total,National,overall,178465.2813,1051.316982,73974291,0.004165412,0.3,0.6,1
