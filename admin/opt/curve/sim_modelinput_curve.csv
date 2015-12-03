@@ -39,8 +39,6 @@ Business Checking - New Checking Accounts,Direct Mail,Consumer,National,overall,
 Consumer Checking - New Checking Accounts,Television,Card Total,National,overall,1955902.756,1699,9035219.5,1,1,0.15,1
 Consumer Checking - New Checking Accounts,Television,Retail Total,National,overall,1293105.356,2081.947387,2514374.4,1,3,0.45,1
 Consumer Checking - New Checking Accounts,Radio,Consumer,National,overall,93149.34917,191.6903116,6382.2,66.46295116,0.6,0.45,1
-Consumer Checking - New Checking Accounts,Online Display,Consumer,National,overall,17913.98938,1051.316982,22139336,0.004315422,0.3,0.6,1
-Consumer Checking - New Checking Accounts,Online Display,Retail Other,National,overall,6495.435625,94.32254261,6357275,0.010557155,0.3,0.6,1
 Consumer Checking - New Checking Accounts,Online Video,Retail Total,National,overall,185947.9569,237.4003724,56460321,0.008429469,0.3,0.45,1
 Consumer Checking - New Checking Accounts,Paid Search,Retail Total,National,overall,195081.0631,1423.744194,597455,0.611073376,0.6,0.6,1
 Consumer Checking - New Checking Accounts,Newspaper,Retail Total,National,overall,32026.04396,116.0737065,4414801,0.032050917,0.3,0.6,1
@@ -81,3 +79,4 @@ Slate Card - New Applications,Affiliates,Slate,National,overall,65456.875,8586.0
 Sapphire Card - New Applications,Affiliates,Sapphire,National,overall,37681.54167,3305.297433,30059,1.611003585,0.6,0.45,1
 Slate Card - New Applications,Paid Search,Partner,National,overall,73581.60333,445.6078612,68065,1.804663089,3,0.15,1
 Slate Card - New Applications,Online Display,Freedom,National,overall,78379.72854,211.9008971,80454855,0.008120951,0.6,0.3,1
+Consumer Checking - New Checking Accounts,Online Display,Retail Total,National,overall,12204.7125,572.8197621,22139336,0.005121124,0.3,0.6,1
