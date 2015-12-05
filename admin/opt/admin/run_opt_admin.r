@@ -1,4 +1,4 @@
-setwd("d:\\Archives\\Git\\chase\\admin\\admin\\")
+setwd("d:\\Archives\\Git\\chase\\admin\\opt\\admin\\")
 suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T
