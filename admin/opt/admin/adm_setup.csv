@@ -2,6 +2,7 @@ attribute,value
 update,y
 client_name,Chase
 r_path,/home/rstudio/nviz/chase/
+general_message,NULL
 calendar,1
 pace,25000
 goal_check,1
