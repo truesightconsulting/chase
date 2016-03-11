@@ -3,7 +3,7 @@ excel_result,Drilldown Result,excel,0,0,0,excel,0,"sales1_id,chan1_id,chan2_id",
 lobchart_1,LOB,sales,2,1,0,bar,1,sales1_id,NULL
 lobtable_1,LOB,sales,2,0,1,table,1,sales1_id,NULL
 overall,overall,overall,0,0,0,overall,0,all_id,NULL
-tacticchart_1,Tactic,chan,1,1,0,bar,1,"chan2_id,chan1_id",NULL
-tacticchart_2,Tactic,chan,1,1,0,bar,1,chan2_id,NULL
-tactictable_1,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id,sales1_id",sales
-tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,sales1_id",sales
+tacticchart_2,Tactic,chan,1,1,0,bar,1,"chan2_id,chan1_id",NULL
+tacticchart_1,Tactic,chan,1,1,0,bar,1,chan1_id,NULL
+tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id,sales1_id",sales
+tactictable_1,Tactic,chan,1,0,1,table,1,"chan1_id,sales1_id",sales
