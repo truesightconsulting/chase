@@ -107,10 +107,12 @@ if (check.error==0){
       temp$eff2_start[temp$eff2_start==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
-      temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
-        round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start"),with=F],digits = 0)
-      temp[,c("eff1","eff1_start","eff2","eff2_start")]=
-        round(temp[,c("eff1","eff1_start","eff2","eff2_start"),with=F],digits = 1)
+      if (ex.output$type[i]!="excel"){
+        temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
+          round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start"),with=F],digits = 0)
+        temp[,c("eff1","eff1_start","eff2","eff2_start")]=
+          round(temp[,c("eff1","eff1_start","eff2","eff2_start"),with=F],digits = 1)
+      }
       if (dim[1]=="all_id") {
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
                         [,c("spend","decomp","value","eff1","eff2","spend_start","decomp_start","value_start","eff1_start","eff2_start"),with=F])
@@ -129,10 +131,12 @@ if (check.error==0){
       temp$eff2[temp$eff2==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
-      temp[,c("spend","decomp","value")]=
-        round(temp[,c("spend","decomp","value"),with=F],digits = 0)
-      temp[,c("eff1","eff2")]=
-        round(temp[,c("eff1","eff2"),with=F],digits = 1)
+      if (ex.output$type[i]!="excel"){
+        temp[,c("spend","decomp","value")]=
+          round(temp[,c("spend","decomp","value"),with=F],digits = 0)
+        temp[,c("eff1","eff2")]=
+          round(temp[,c("eff1","eff2"),with=F],digits = 1)
+      }
       temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
                       [,c("spend","decomp","value","eff1","eff2"),with=F])
       temp=temp[order(-spend)]
