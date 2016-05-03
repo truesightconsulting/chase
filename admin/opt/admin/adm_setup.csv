@@ -4,7 +4,7 @@ client_name,Chase
 r_path,/home/rstudio/nviz/chase/
 general_message,NULL
 calendar,2
-pace,25000
+pace,2500
 goal_check,1
 bdgt_dim,"chan2_id,chan1_id,dma1_id"
 event_dim,"chan2_id,chan1_id,dma1_id,sales1_id"
