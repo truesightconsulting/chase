@@ -6,7 +6,7 @@ general_message,NULL
 calendar,2
 pace,25000
 goal_check,1
-bdgt_dim,"chan2_id,chan1_id,dma1_id,week_id"
+bdgt_dim,"chan2_id,chan1_id,dma1_id"
 event_dim,"chan2_id,chan1_id,dma1_id,sales1_id"
 dim_chan,"chan2_id,chan1_id"
 dim_dma,dma1_id
