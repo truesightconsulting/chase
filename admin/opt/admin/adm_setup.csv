@@ -11,3 +11,6 @@ event_dim,"chan2_id,chan1_id,dma1_id,sales1_id"
 dim_chan,"chan2_id,chan1_id"
 dim_dma,dma1_id
 dim_sales,sales1_id
+formula,exp
+beta,a
+is_mta,0
