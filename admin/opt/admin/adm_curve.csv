@@ -5,7 +5,7 @@ Business Checking - New Checking Accounts,Online Display,Ink,overall,1.5,0.15,10
 Business Checking - New Checking Accounts,Radio,Business,overall,1.5,0.01,1593,460.55,39,2016 Q1,National,64199
 Business Checking - New Checking Accounts,Online Display,Corporate,overall,0.5,0.01,114966539,0.01,39,2016 Q1,National,158142
 Business Checking - New Checking Accounts,Paid Search,Business,overall,0.3,0.05,1883,1.97,39,2016 Q1,National,15021
-Business Checking - New Checking Accounts,Online Display,Business,overall,1.5,0.15,39670496,0.004330093,39,2016 Q1,National,5507
+Business Checking - New Checking Accounts,Online Display,Business,overall,1.5,0.15,39670496,0.01,39,2016 Q1,National,5507
 Business Checking - New Checking Accounts,Paid Search,Consumer,overall,0.3,0.01,335809,1.94,39,2016 Q1,National,235702
 Business Checking - New Checking Accounts,Television,Consumer,overall,4,0.01,18745,146.47,39,2016 Q1,National,65893
 Business Checking - New Checking Accounts,Television,Business,overall,1.5,0.15,10799,96.16,39,2016 Q1,National,16878
@@ -19,7 +19,7 @@ Business Savings - New Savings Accounts,Television,Consumer,overall,4,0.01,18745
 Business Savings - New Savings Accounts,Online Video,Ink,overall,0.5,0.01,6404335,0.01,39,2016 Q1,National,22914
 Business Savings - New Savings Accounts,Radio,Business,overall,0.3,0.01,1593,460.55,39,2016 Q1,National,107049
 Business Savings - New Savings Accounts,Direct Mail,Consumer,overall,3,0.1,19128548,0.47,39,2016 Q1,National,6425
-Business Savings - New Savings Accounts,Online Display,Business,overall,0.3,0.01,39670496,0.004330093,39,2016 Q1,National,175686
+Business Savings - New Savings Accounts,Online Display,Business,overall,0.3,0.01,39670496,0.01,39,2016 Q1,National,175686
 Consumer Checking - New Checking Accounts,Trade Magazine,Retail Total,overall,0.5,0.15,12467,1,39,2016 Q1,National,5801
 Consumer Checking - New Checking Accounts,Newspaper,Consumer,overall,4,0.15,28300,1,39,2016 Q1,National,8589
 Consumer Checking - New Checking Accounts,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,39,2016 Q1,National,120942
@@ -60,7 +60,7 @@ Marriott Card - New Applications,Paid Search,Mariott,overall,0.3,0.01,15365,1.55
 Marriott Card - New Applications,Online Video,Partner,overall,1.5,0.15,12086974,0.02,39,2016 Q1,National,22247
 Marriott Card - New Applications,Affiliates,Mariott,overall,0.5,0.15,1981,36.84,39,2016 Q1,National,17934
 Marriott Card - New Applications,Television,Partner,overall,6,0.15,891,2300.95,39,2016 Q1,National,55609
-Marriott Card - New Applications,Online Display,Partner,overall,1.5,0.15,83676019,0.00333,39,2016 Q1,National,15130
+Marriott Card - New Applications,Online Display,Partner,overall,1.5,0.15,83676019,0.01,39,2016 Q1,National,15130
 Sapphire Card - New Applications,Magazine,Sapphire,overall,0.3,0.01,152195,1,39,2016 Q1,National,60626
 Sapphire Card - New Applications,Direct Mail,Freedom,overall,0.3,0.01,8731730,0.47,39,2016 Q1,National,217536
 Sapphire Card - New Applications,Television,Freedom,overall,6,0.01,26053,116.36,39,2016 Q1,National,204031
@@ -73,13 +73,13 @@ Sapphire Card - New Applications,Affiliates,Sapphire,overall,1.5,0.01,24230,44.7
 Slate Card - New Applications,Online Display,Freedom,overall,0.3,0.1,8313540,0.01,39,2016 Q1,National,143701
 Slate Card - New Applications,Online Display,Sapphire,overall,6,0.15,16335092,0.01,39,2016 Q1,National,46489
 Slate Card - New Applications,Television,Freedom,overall,4,0.15,26053,116.36,39,2016 Q1,National,129244
-Slate Card - New Applications,Online Display,Slate,overall,0.5,0.15,25943324,0.00247,39,2016 Q1,National,162947
+Slate Card - New Applications,Online Display,Slate,overall,0.5,0.15,25943324,0.01,39,2016 Q1,National,162947
 Slate Card - New Applications,Paid Search,Multicard,overall,0.3,0.01,163578,2.12,39,2016 Q1,National,2205272
 Slate Card - New Applications,Direct Mail,Slate,overall,6,0.15,22203280,0.47,39,2016 Q1,National,673551
 Slate Card - New Applications,Affiliates,Slate,overall,0.3,0.01,44507,57.69,39,2016 Q1,National,7113183
 United Card - New Applications,Direct Mail,United,overall,0.3,0.03,1900812,0.4,39,2016 Q1,National,68672
 United Card - New Applications,TV,Partner,overall,0.3,0.15,891,2300.95,39,2016 Q1,National,128396
-United Card - New Applications,Online Display,Partner,overall,6,0.01,83676019,0.003328021,39,2016 Q1,National,116386
+United Card - New Applications,Online Display,Partner,overall,6,0.01,83676019,0.01,39,2016 Q1,National,116386
 United Card - New Applications,Online Video,Partner,overall,6,0.15,12086974,0.02,39,2016 Q1,National,49083
 United Card - New Applications,Paid Search,United,overall,1.5,0.01,178,6.59,39,2016 Q1,National,243208
 United Card - New Applications,Outdoor,Partner,overall,0.3,0.15,529332,1,39,2016 Q1,National,22240
