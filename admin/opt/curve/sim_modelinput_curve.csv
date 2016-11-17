@@ -1,91 +1,95 @@
-sales1_name,chan1_name,chan2_name,all_name,hl,hrf,max,cps,wks,curvegroup_name,dma1_name,beta
-Business Checking - New Checking Accounts,Direct Mail,Consumer,overall,4,0.15,19128548,0.47,39,2016 Q1,National,1768
-Business Checking - New Checking Accounts,Online Video,Business,overall,1.5,0.01,1395229,0.02,39,2016 Q1,National,29067
-Business Checking - New Checking Accounts,Online Display,Ink,overall,1.5,0.15,10684098,0.03,39,2016 Q1,National,4266
-Business Checking - New Checking Accounts,Radio,Business,overall,1.5,0.01,1593,460.55,39,2016 Q1,National,64209
-Business Checking - New Checking Accounts,Online Display,Corporate,overall,0.5,0.01,114966539,0.01,39,2016 Q1,National,162734
-Business Checking - New Checking Accounts,Paid Search,Business,overall,0.3,0.05,1883,1.97,39,2016 Q1,National,15055
-Business Checking - New Checking Accounts,Online Display,Business,overall,1.5,0.15,39670496,0,39,2016 Q1,National,5507
-Business Checking - New Checking Accounts,Paid Search,Consumer,overall,0.3,0.01,335809,1.94,39,2016 Q1,National,235270
-Business Checking - New Checking Accounts,Television,Consumer,overall,4,0.01,18745,146.47,39,2016 Q1,National,65897
-Business Checking - New Checking Accounts,Television,Business,overall,1.5,0.15,10799,96.16,39,2016 Q1,National,16878
-Business Savings - New Savings Accounts,Online Display,Ink,overall,0.5,0.15,10684098,0.03,39,2016 Q1,National,1281
-Business Savings - New Savings Accounts,Radio,JMC,overall,1.5,0.05,5,1825.47,39,2016 Q1,National,5390
-Business Savings - New Savings Accounts,Online Display,Consumer,overall,0.3,0.01,7351081,0.01,39,2016 Q1,National,11364
-Business Savings - New Savings Accounts,Newspaper,Business,overall,1.5,0.15,9855,1,39,2016 Q1,National,2192
-Business Savings - New Savings Accounts,Paid Search,Business,overall,0.5,0.15,1883,1.97,39,2016 Q1,National,1202
-Business Savings - New Savings Accounts,Paid Search,Consumer,overall,0.3,0.15,335809,1.94,39,2016 Q1,National,4946
-Business Savings - New Savings Accounts,Television,Consumer,overall,4,0.01,18745,146.47,39,2016 Q1,National,15091
-Business Savings - New Savings Accounts,Online Video,Ink,overall,0.5,0.01,6404335,0.01,39,2016 Q1,National,27134
-Business Savings - New Savings Accounts,Radio,Business,overall,0.3,0.01,1593,460.55,39,2016 Q1,National,107061
-Business Savings - New Savings Accounts,Direct Mail,Consumer,overall,3,0.1,19128548,0.47,39,2016 Q1,National,6427
-Business Savings - New Savings Accounts,Online Display,Business,overall,0.3,0.01,39670496,0,39,2016 Q1,National,175679
-Consumer Checking - New Checking Accounts,Trade Magazine,Retail Total,overall,0.5,0.15,12467,1,39,2016 Q1,National,5802
-Consumer Checking - New Checking Accounts,Newspaper,Consumer,overall,4,0.15,28300,1,39,2016 Q1,National,8589
-Consumer Checking - New Checking Accounts,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,39,2016 Q1,National,179157
-Consumer Checking - New Checking Accounts,Magazine,Consumer,overall,0.3,0.01,117733,1,39,2016 Q1,National,240290
-Consumer Checking - New Checking Accounts,Television,Retail Mortgage,overall,3,0.03,951,107.38,39,2016 Q1,National,72676
-Consumer Checking - New Checking Accounts,Online Display,Consumer,overall,0.5,0.01,45145360,0.01,39,2016 Q1,National,401640
-Consumer Checking - New Checking Accounts,Television,Consumer,overall,6,0.15,18988,145.38,39,2016 Q1,National,110425
-Consumer Checking - New Checking Accounts,Paid Search,Consumer & XLB,overall,0.3,0.01,1262917,2.31,39,2016 Q1,National,8525039
-Consumer Checking - New Checking Accounts,Television,Card Total,overall,4,0.1,32086,105.13,39,2016 Q1,National,233354
-Consumer Checking - New Checking Accounts,Direct Mail,Consumer,overall,4,0.15,19128548,0.47,39,2016 Q1,National,752160
-Consumer Checking - Total Balances,Newspaper,Consumer,overall,0.3,0.15,28300,1,39,2016 Q1,National,124715406
-Consumer Checking - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,39,2016 Q1,National,1189677046
-Consumer Checking - Total Balances,Magazine,Consumer,overall,0.5,0.15,117733,1,39,2016 Q1,National,303994824
-Consumer Checking - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2.31,39,2016 Q1,National,1241558704
-Consumer Checking - Total Balances,Television,Business Total,overall,0.3,0.15,10799,96.09,39,2016 Q1,National,648512244
-Consumer Checking - Total Balances,Television,Consumer,overall,4,0.15,18988,145.38,39,2016 Q1,National,820329395
-Consumer Checking - Total Balances,Direct Mail,Consumer,overall,3,0.15,19128548,0.47,39,2016 Q1,National,2265123812
-Consumer Savings - New Savings Accounts,Trade Magazine,Retail Total,overall,0.5,0.03,12467,1,39,2016 Q1,National,12193
-Consumer Savings - New Savings Accounts,Newspaper,Consumer,overall,4,0.15,28300,1,39,2016 Q1,National,8857
-Consumer Savings - New Savings Accounts,Television,Retail Mortgage,overall,1.5,0.01,951,107.38,39,2016 Q1,National,169523
-Consumer Savings - New Savings Accounts,Online Video,Consumer,overall,0.3,0.15,50688024,0.01,39,2016 Q1,National,27027
-Consumer Savings - New Savings Accounts,Online Display,Consumer,overall,0.5,0.01,45145360,0.01,39,2016 Q1,National,339771
-Consumer Savings - New Savings Accounts,Television,Card Total,overall,0.3,0.15,32086,105.13,39,2016 Q1,National,52368
-Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,overall,3,0.01,1262917,2.31,39,2016 Q1,National,2238619
-Consumer Savings - New Savings Accounts,Television,Consumer,overall,4,0.15,18988,145.38,39,2016 Q1,National,85922
-Consumer Savings - New Savings Accounts,Direct Mail,Consumer,overall,1.5,0.15,19128548,0.47,39,2016 Q1,National,486069
-Consumer Savings - Total Balances,Newspaper,Consumer,overall,3,0.15,28300,1,39,2016 Q1,National,153168367
-Consumer Savings - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,39,2016 Q1,National,8027481110
-Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,39,2016 Q1,National,25327272528
-Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2.31,39,2016 Q1,National,4601114727
-Consumer Savings - Total Balances,Magazine,Consumer,overall,3,0.15,117733,1,39,2016 Q1,National,554536973
-Consumer Savings - Total Balances,Television,Consumer,overall,6,0.1,18988,145.38,39,2016 Q1,National,2255469753
-Consumer Savings - Total Balances,Direct Mail,Consumer,overall,1.5,0.1,19128548,0.47,39,2016 Q1,National,12333080921
-Marriott Card - New Applications,Outdoor,Partner,overall,6,0.15,529332,1,39,2016 Q1,National,592
-Marriott Card - New Applications,Television,Sapphire,overall,0.5,0.15,19848,75.51,39,2016 Q1,National,3435
-Marriott Card - New Applications,Direct Mail,Mariott,overall,0.5,0.01,1125786,0.47,39,2016 Q1,National,63408
-Marriott Card - New Applications,Paid Search,Mariott,overall,0.3,0.01,15365,1.55,39,2016 Q1,National,83414
-Marriott Card - New Applications,Online Video,Partner,overall,1.5,0.15,12086974,0.02,39,2016 Q1,National,19852
-Marriott Card - New Applications,Affiliates,Mariott,overall,0.5,0.15,1981,36.84,39,2016 Q1,National,17933
-Marriott Card - New Applications,Television,Partner,overall,6,0.15,891,2300.95,39,2016 Q1,National,55611
-Marriott Card - New Applications,Online Display,Partner,overall,1.5,0.15,83676019,0,39,2016 Q1,National,18692
-Sapphire Card - New Applications,Magazine,Sapphire,overall,0.3,0.01,152195,1,39,2016 Q1,National,60628
-Sapphire Card - New Applications,Direct Mail,Freedom,overall,0.3,0.01,8731730,0.47,39,2016 Q1,National,217557
-Sapphire Card - New Applications,Television,Freedom,overall,6,0.01,26053,116.36,39,2016 Q1,National,204040
-Sapphire Card - New Applications,Online Display,Sapphire,overall,3,0.03,16335092,0.01,39,2016 Q1,National,54608
-Sapphire Card - New Applications,Television,Sapphire,overall,0.3,0.15,19848,75.51,39,2016 Q1,National,40609
-Sapphire Card - New Applications,Direct Mail,Sapphire,overall,0.3,0.15,1458816,0.47,39,2016 Q1,National,304940
-Sapphire Card - New Applications,Online Video,Sapphire,overall,3,0.03,19778688,0.01,39,2016 Q1,National,183542
-Sapphire Card - New Applications,Paid Search,Multicard,overall,6,0.15,163578,2.12,39,2016 Q1,National,73213
-Sapphire Card - New Applications,Affiliates,Sapphire,overall,1.5,0.01,24230,44.7,39,2016 Q1,National,1499413
-Slate Card - New Applications,Online Display,Freedom,overall,0.3,0.1,8313540,0.01,39,2016 Q1,National,133245
-Slate Card - New Applications,Online Display,Sapphire,overall,6,0.15,16335092,0.01,39,2016 Q1,National,51681
-Slate Card - New Applications,Television,Freedom,overall,4,0.15,26053,116.36,39,2016 Q1,National,129245
-Slate Card - New Applications,Online Display,Slate,overall,0.5,0.15,25943324,0,39,2016 Q1,National,162947
-Slate Card - New Applications,Paid Search,Multicard,overall,0.3,0.01,163578,2.12,39,2016 Q1,National,2204614
-Slate Card - New Applications,Direct Mail,Slate,overall,6,0.15,22203280,0.47,39,2016 Q1,National,673549
-Slate Card - New Applications,Affiliates,Slate,overall,0.3,0.01,44507,57.69,39,2016 Q1,National,7112604
-United Card - New Applications,Direct Mail,United,overall,0.3,0.03,1900812,0.4,39,2016 Q1,National,68674
-United Card - New Applications,TV,Partner,overall,0.3,0.15,891,2300.95,39,2016 Q1,National,128394
-United Card - New Applications,Online Display,Partner,overall,6,0.01,83676019,0,39,2016 Q1,National,116387
-United Card - New Applications,Online Video,Partner,overall,6,0.15,12086974,0.02,39,2016 Q1,National,43921
-United Card - New Applications,Paid Search,United,overall,1.5,0.01,178,6.59,39,2016 Q1,National,243100
-United Card - New Applications,Outdoor,Partner,overall,0.3,0.15,529332,1,39,2016 Q1,National,22240
-Freedom Card - New Applications,Direct Mail,Freedom,overall,0.3,0.01,152195,1,39,2016 Q1,National,2292247
-Freedom Card - New Applications,TV,Freedom,overall,0.3,0.01,8731730,0.47,39,2016 Q1,National,47892663
-Freedom Card - New Applications,Affiliate,Freedom,overall,6,0.01,26053,116.36,39,2016 Q1,National,245794815
-Freedom Card - New Applications,Paid Search,Freedom,overall,3,0.03,163578,2.12,39,2016 Q1,National,7504314
-Freedom Card - New Applications,Online Display,Freedom,overall,0.3,0.15,8313540,0.01,39,2016 Q1,National,53092
-Freedom Card - New Applications,Online Video,Freedom,overall,0.3,0.15,1458816,0.47,39,2016 Q1,National,825409
+sales1_name,chan1_name,chan2_name,dma1_name,all_name,spend,decomp,max,cps,hl,hrf,wks
+Business Checking - New Checking Accounts,Direct Mail,Consumer,National,overall,1840416,21,19128548,0.1,4,0.15,1
+Business Checking - New Checking Accounts,Online Video,Business,National,overall,4002,21,1395229,0.1,1.5,0.01,1
+Business Checking - New Checking Accounts,Online Display,Ink,National,overall,31219,28,10684098,0.1,1.5,0.15,1
+Business Checking - New Checking Accounts,Radio,Business,National,overall,122992,45,1593,461,1.5,0.01,1
+Business Checking - New Checking Accounts,Online Display,Corporate,National,overall,122845,54,114966539,0.1,0.5,0.01,1
+Business Checking - New Checking Accounts,Paid Search,Business,National,overall,1263,67,1883,2,0.3,0.05,1
+Business Checking - New Checking Accounts,Online Display,Business,National,overall,52933,77,39670496,0.1,1.5,0.15,1
+Business Checking - New Checking Accounts,Paid Search,Consumer,National,overall,77223,79,335809,2,0.3,0.01,1
+Business Checking - New Checking Accounts,Television,Consumer,National,overall,1212804,132,18745,146,4,0.01,1
+Business Checking - New Checking Accounts,Television,Business,National,overall,358763,253,10799,96,1.5,0.15,1
+Business Savings - New Savings Accounts,Online Display,Ink,National,overall,31219,7,10684098,0.1,0.5,0.15,1
+Business Savings - New Savings Accounts,Radio,JMC,National,overall,880,11,5,1825,1.5,0.05,1
+Business Savings - New Savings Accounts,Online Display,Consumer,National,overall,43183,13,7351081,0.1,0.3,0.01,1
+Business Savings - New Savings Accounts,Newspaper,Business,National,overall,1011,13,9855,1,1.5,0.15,1
+Business Savings - New Savings Accounts,Paid Search,Business,National,overall,1263,15,1883,2,0.5,0.15,1
+Business Savings - New Savings Accounts,Paid Search,Consumer,National,overall,77223,24,335809,2,0.3,0.15,1
+Business Savings - New Savings Accounts,Television,Consumer,National,overall,1212804,30,18745,146,4,0.01,1
+Business Savings - New Savings Accounts,Online Video,Ink,National,overall,31902,36,6404335,0.1,0.5,0.01,1
+Business Savings - New Savings Accounts,Radio,Business,National,overall,122992,50,1593,461,0.3,0.01,1
+Business Savings - New Savings Accounts,Direct Mail,Consumer,National,overall,1840416,52,19128548,0.1,3,0.1,1
+Business Savings - New Savings Accounts,Online Display,Business,National,overall,52933,151,39670496,0.1,0.3,0.01,1
+Consumer Checking - New Checking Accounts,Trade Magazine,Retail Total,National,overall,3661,65,12467,1,0.5,0.15,1
+Consumer Checking - New Checking Accounts,Newspaper,Consumer,National,overall,7202,116,28300,1,4,0.15,1
+Consumer Checking - New Checking Accounts,Online Video,Consumer,National,overall,234060,154,50688024,0.1,0.3,0.01,1
+Consumer Checking - New Checking Accounts,Magazine,Consumer,National,overall,42493,240,117733,1,0.3,0.01,1
+Consumer Checking - New Checking Accounts,Television,Retail Mortgage,National,overall,32836,299,951,107,3,0.03,1
+Consumer Checking - New Checking Accounts,Online Display,Consumer,National,overall,154641,626,45145360,0.1,0.5,0.01,1
+Consumer Checking - New Checking Accounts,Television,Consumer,National,overall,1225856,2086,18988,145,6,0.15,1
+Consumer Checking - New Checking Accounts,Paid Search,Consumer & XLB,National,overall,294396,2425,1262917,2,0.3,0.01,1
+Consumer Checking - New Checking Accounts,Television,Card Total,National,overall,1263047,3056,32086,105,4,0.1,1
+Consumer Checking - New Checking Accounts,Direct Mail,Consumer,National,overall,1840416,8749,19128548,0.1,4,0.15,1
+Consumer Checking - Total Balances,Newspaper,Consumer,National,overall,7202,1154252,28300,1,0.3,0.15,1
+Consumer Checking - Total Balances,Online Display,Consumer,National,overall,154641,1640170,45145360,0.1,0.3,0.01,1
+Consumer Checking - Total Balances,Magazine,Consumer,National,overall,42493,3940103,117733,1,0.5,0.15,1
+Consumer Checking - Total Balances,Paid Search,Consumer & XLB,National,overall,294396,5226389,1262917,2,0.3,0.15,1
+Consumer Checking - Total Balances,Television,Business Total,National,overall,368892,7703605,10799,96,0.3,0.15,1
+Consumer Checking - Total Balances,Television,Consumer,National,overall,1225856,15231635,18988,145,4,0.15,1
+Consumer Checking - Total Balances,Direct Mail,Consumer,National,overall,1840416,25791105,19128548,0.1,3,0.15,1
+Consumer Savings - New Savings Accounts,Trade Magazine,Retail Total,National,overall,3661,33,12467,1,0.5,0.03,1
+Consumer Savings - New Savings Accounts,Newspaper,Consumer,National,overall,7202,120,28300,1,4,0.15,1
+Consumer Savings - New Savings Accounts,Television,Retail Mortgage,National,overall,32836,223,951,107,1.5,0.01,1
+Consumer Savings - New Savings Accounts,Online Video,Consumer,National,overall,234060,290,50688024,0.1,0.3,0.15,1
+Consumer Savings - New Savings Accounts,Online Display,Consumer,National,overall,154641,530,45145360,0.1,0.5,0.01,1
+Consumer Savings - New Savings Accounts,Television,Card Total,National,overall,1263047,645,32086,105,0.3,0.15,1
+Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,National,overall,294396,1036,1262917,2,3,0.01,1
+Consumer Savings - New Savings Accounts,Television,Consumer,National,overall,1225856,1595,18988,145,4,0.15,1
+Consumer Savings - New Savings Accounts,Direct Mail,Consumer,National,overall,1840416,5120,19128548,0.1,1.5,0.15,1
+Consumer Savings - Total Balances,Newspaper,Consumer,National,overall,7202,2028528,28300,1,3,0.15,1
+Consumer Savings - Total Balances,Online Display,Consumer,National,overall,154641,11067236,45145360,0.1,0.3,0.01,1
+Consumer Savings - Total Balances,Online Video,Consumer,National,overall,234060,21764955,50688024,0.1,0.3,0.01,1
+Consumer Savings - Total Balances,Paid Search,Consumer & XLB,National,overall,294396,19368569,1262917,2,0.3,0.15,1
+Consumer Savings - Total Balances,Magazine,Consumer,National,overall,42493,9095666,117733,1,3,0.15,1
+Consumer Savings - Total Balances,Television,Consumer,National,overall,1225856,33669186,18988,145,6,0.1,1
+Consumer Savings - Total Balances,Direct Mail,Consumer,National,overall,1840416,92502811,19128548,0.1,1.5,0.1,1
+Marriott Card - New Applications,Outdoor,Partner,National,overall,389161,13,529332,1,6,0.15,1
+Marriott Card - New Applications,Television,Sapphire,National,overall,409938,37,19848,76,0.5,0.15,1
+Marriott Card - New Applications,Direct Mail,Mariott,National,overall,174050,66,1125786,0.1,0.5,0.01,1
+Marriott Card - New Applications,Paid Search,Mariott,National,overall,18512,175,15365,2,0.3,0.01,1
+Marriott Card - New Applications,Online Video,Partner,National,overall,34170,176,12086974,0.1,1.5,0.15,1
+Marriott Card - New Applications,Affiliates,Mariott,National,overall,20342,194,1981,37,0.5,0.15,1
+Marriott Card - New Applications,Television,Partner,National,overall,102032,202,891,2301,6,0.15,1
+Marriott Card - New Applications,Online Display,Partner,National,overall,137189,274,83676019,0.1,1.5,0.15,1
+Sapphire Card - New Applications,Magazine,Sapphire,National,overall,72183,79,152195,1,0.3,0.01,1
+Sapphire Card - New Applications,Direct Mail,Freedom,National,overall,843890,125,8731730,0.1,0.3,0.01,1
+Sapphire Card - New Applications,Television,Freedom,National,overall,751077,240,26053,116,6,0.01,1
+Sapphire Card - New Applications,Online Display,Sapphire,National,overall,146175,389,16335092,0.1,3,0.03,1
+Sapphire Card - New Applications,Television,Sapphire,National,overall,409938,397,19848,76,0.3,0.15,1
+Sapphire Card - New Applications,Direct Mail,Sapphire,National,overall,35145,682,1458816,0.1,0.3,0.15,1
+Sapphire Card - New Applications,Online Video,Sapphire,National,overall,59243,688,19778688,0.1,3,0.03,1
+Sapphire Card - New Applications,Paid Search,Multicard,National,overall,254029,1660,163578,2,6,0.15,1
+Sapphire Card - New Applications,Affiliates,Sapphire,National,overall,514161,2867,24230,45,1.5,0.01,1
+Slate Card - New Applications,Online Display,Freedom,National,overall,6918,337,8313540,0.1,0.3,0.1,1
+Slate Card - New Applications,Online Display,Sapphire,National,overall,146175,1104,16335092,0.1,6,0.15,1
+Slate Card - New Applications,Television,Freedom,National,overall,751077,1716,26053,116,4,0.15,1
+Slate Card - New Applications,Online Display,Slate,National,overall,23862,2159,25943324,0.1,0.5,0.15,1
+Slate Card - New Applications,Paid Search,Multicard,National,overall,254029,4383,163578,2,0.3,0.01,1
+Slate Card - New Applications,Direct Mail,Slate,National,overall,1791285,7038,22203280,0.1,6,0.15,1
+Slate Card - New Applications,Affiliates,Slate,National,overall,1426790,10836,44507,58,0.3,0.01,1
+United Card - New Applications,Direct Mail,United,National,overall,121192,91,1900812,0.1,0.3,0.03,1
+United Card - New Applications,TV,Partner,National,overall,102032,279,891,2301,0.3,0.15,1
+United Card - New Applications,Online Display,Partner,National,overall,137189,266,83676019,0.1,6,0.01,1
+United Card - New Applications,Online Video,Partner,National,overall,34170,441,12086974,0.1,6,0.15,1
+United Card - New Applications,Paid Search,United,National,overall,547,457,178,7,1.5,0.01,1
+United Card - New Applications,Outdoor,Partner,National,overall,380929,405,529332,1,0.3,0.15,1
+Freedom Card - New Applications,Direct Mail,Freedom,National,overall,121192,4935,152195,1,0.3,0.01,1
+Freedom Card - New Applications,TV,Freedom,National,overall,102032,3368,8731730,0.1,0.3,0.01,1
+Freedom Card - New Applications,Affiliates,Freedom,National,overall,23744,9374,26053,116,6,0.01,1
+Freedom Card - New Applications,Paid Search,Freedom,National,overall,27704,8211,163578,2,3,0.03,1
+Freedom Card - New Applications,Online Display,Freedom,National,overall,137189,1294,8313540,0.1,0.3,0.15,1
+Freedom Card - New Applications,Online Video,Freedom,National,overall,34170,1797,1458816,0.1,0.3,0.15,1
+Ink Card - New Applications,Online Display,Ink,National,overall,104628,756,10684098,0.1,1.5,0.15,1
+Ink Card - New Applications,Television,Ink,National,overall,363184,684,10799,96,1.5,0.15,1
+Ink Card - New Applications,Paid Search,Multicard,National,overall,254029,741,163578,2,0.3,0.01,1
+Ink Card - New Applications,Affiliates,Ink,National,overall,63310,551,44507,58,0.3,0.01,1

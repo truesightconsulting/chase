@@ -1,52 +1,52 @@
 "bdgt_id","dma1_name","chan2_name","chan1_name","client_id","chan2_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
-"153_57_1","National","Corporate","Online Display",10,153,57,1,NULL,NULL,NULL
-"154_30_1","National","JMC","Radio",10,154,30,1,NULL,NULL,NULL
-"155_138_1","National","Retail Mortgage","Television",10,155,138,1,NULL,NULL,NULL
-"156_73_1","National","Consumer & XLB","Paid Search",10,156,73,1,NULL,NULL,NULL
-"157_138_1","National","Business Total","Television",10,157,138,1,NULL,NULL,NULL
-"158_136_1","National","Mariott","Affiliates",10,158,136,1,NULL,NULL,NULL
-"158_42_1","National","Mariott","Direct Mail",10,158,42,1,NULL,NULL,NULL
-"158_73_1","National","Mariott","Paid Search",10,158,73,1,NULL,NULL,NULL
-"159_42_1","National","United","Direct Mail",10,159,42,1,NULL,NULL,NULL
-"159_73_1","National","United","Paid Search",10,159,73,1,NULL,NULL,NULL
-"51_137_1","National","Freedom","Online Video",10,51,137,1,NULL,NULL,NULL
-"51_138_1","National","Freedom","Television",10,51,138,1,NULL,NULL,NULL
-"51_174_1","National","Freedom","TV",10,51,174,1,NULL,NULL,NULL
-"51_226_1","National","Freedom","Affiliate",10,51,226,1,NULL,NULL,NULL
-"51_42_1","National","Freedom","Direct Mail",10,51,42,1,NULL,NULL,NULL
-"51_57_1","National","Freedom","Online Display",10,51,57,1,NULL,NULL,NULL
-"51_73_1","National","Freedom","Paid Search",10,51,73,1,NULL,NULL,NULL
-"52_137_1","National","Partner","Online Video",10,52,137,1,NULL,NULL,NULL
-"52_138_1","National","Partner","Television",10,52,138,1,NULL,NULL,NULL
-"52_140_1","National","Partner","Outdoor",10,52,140,1,NULL,NULL,NULL
-"52_174_1","National","Partner","TV",10,52,174,1,NULL,NULL,NULL
-"52_57_1","National","Partner","Online Display",10,52,57,1,NULL,NULL,NULL
-"53_73_1","National","Multicard","Paid Search",10,53,73,1,NULL,NULL,NULL
-"54_136_1","National","Ink","Affiliates",10,54,136,1,NULL,NULL,NULL
-"54_137_1","National","Ink","Online Video",10,54,137,1,NULL,NULL,NULL
-"54_138_1","National","Ink","Television",10,54,138,1,NULL,NULL,NULL
-"54_57_1","National","Ink","Online Display",10,54,57,1,NULL,NULL,NULL
-"55_136_1","National","Sapphire","Affiliates",10,55,136,1,NULL,NULL,NULL
-"55_137_1","National","Sapphire","Online Video",10,55,137,1,NULL,NULL,NULL
-"55_138_1","National","Sapphire","Television",10,55,138,1,NULL,NULL,NULL
-"55_42_1","National","Sapphire","Direct Mail",10,55,42,1,NULL,NULL,NULL
-"55_57_1","National","Sapphire","Online Display",10,55,57,1,NULL,NULL,NULL
-"55_93_1","National","Sapphire","Magazine",10,55,93,1,NULL,NULL,NULL
-"56_136_1","National","Slate","Affiliates",10,56,136,1,NULL,NULL,NULL
-"56_42_1","National","Slate","Direct Mail",10,56,42,1,NULL,NULL,NULL
-"56_57_1","National","Slate","Online Display",10,56,57,1,NULL,NULL,NULL
-"57_137_1","National","Consumer","Online Video",10,57,137,1,NULL,NULL,NULL
-"57_138_1","National","Consumer","Television",10,57,138,1,NULL,NULL,NULL
-"57_42_1","National","Consumer","Direct Mail",10,57,42,1,NULL,NULL,NULL
-"57_43_1","National","Consumer","Newspaper",10,57,43,1,NULL,NULL,NULL
-"57_57_1","National","Consumer","Online Display",10,57,57,1,NULL,NULL,NULL
-"57_73_1","National","Consumer","Paid Search",10,57,73,1,NULL,NULL,NULL
-"57_93_1","National","Consumer","Magazine",10,57,93,1,NULL,NULL,NULL
-"58_139_1","National","Retail Total","Trade Magazine",10,58,139,1,NULL,NULL,NULL
-"59_138_1","National","Card Total","Television",10,59,138,1,NULL,NULL,NULL
-"60_137_1","National","Business","Online Video",10,60,137,1,NULL,NULL,NULL
-"60_138_1","National","Business","Television",10,60,138,1,NULL,NULL,NULL
-"60_30_1","National","Business","Radio",10,60,30,1,NULL,NULL,NULL
-"60_43_1","National","Business","Newspaper",10,60,43,1,NULL,NULL,NULL
-"60_57_1","National","Business","Online Display",10,60,57,1,NULL,NULL,NULL
-"60_73_1","National","Business","Paid Search",10,60,73,1,NULL,NULL,NULL
+"122_180_146","National","Freedom","Affiliates",9,122,180,146,NULL,NULL,NULL
+"122_181_146","National","Freedom","Television",9,122,181,146,NULL,NULL,NULL
+"122_182_146","National","Freedom","Paid Search",9,122,182,146,NULL,NULL,NULL
+"122_183_146","National","Freedom","Online Display",9,122,183,146,NULL,NULL,NULL
+"122_184_146","National","Freedom","Online Video",9,122,184,146,NULL,NULL,NULL
+"122_355_146","National","Freedom","TV",9,122,355,146,NULL,NULL,NULL
+"122_67_146","National","Freedom","Direct Mail",9,122,67,146,NULL,NULL,NULL
+"123_181_146","National","Partner","Television",9,123,181,146,NULL,NULL,NULL
+"123_183_146","National","Partner","Online Display",9,123,183,146,NULL,NULL,NULL
+"123_184_146","National","Partner","Online Video",9,123,184,146,NULL,NULL,NULL
+"123_187_146","National","Partner","Outdoor",9,123,187,146,NULL,NULL,NULL
+"123_355_146","National","Partner","TV",9,123,355,146,NULL,NULL,NULL
+"124_182_146","National","Multicard","Paid Search",9,124,182,146,NULL,NULL,NULL
+"125_180_146","National","Ink","Affiliates",9,125,180,146,NULL,NULL,NULL
+"125_181_146","National","Ink","Television",9,125,181,146,NULL,NULL,NULL
+"125_183_146","National","Ink","Online Display",9,125,183,146,NULL,NULL,NULL
+"125_184_146","National","Ink","Online Video",9,125,184,146,NULL,NULL,NULL
+"126_180_146","National","Sapphire","Affiliates",9,126,180,146,NULL,NULL,NULL
+"126_181_146","National","Sapphire","Television",9,126,181,146,NULL,NULL,NULL
+"126_183_146","National","Sapphire","Online Display",9,126,183,146,NULL,NULL,NULL
+"126_184_146","National","Sapphire","Online Video",9,126,184,146,NULL,NULL,NULL
+"126_185_146","National","Sapphire","Magazine",9,126,185,146,NULL,NULL,NULL
+"126_67_146","National","Sapphire","Direct Mail",9,126,67,146,NULL,NULL,NULL
+"127_180_146","National","Slate","Affiliates",9,127,180,146,NULL,NULL,NULL
+"127_183_146","National","Slate","Online Display",9,127,183,146,NULL,NULL,NULL
+"127_67_146","National","Slate","Direct Mail",9,127,67,146,NULL,NULL,NULL
+"128_181_146","National","Consumer","Television",9,128,181,146,NULL,NULL,NULL
+"128_182_146","National","Consumer","Paid Search",9,128,182,146,NULL,NULL,NULL
+"128_183_146","National","Consumer","Online Display",9,128,183,146,NULL,NULL,NULL
+"128_184_146","National","Consumer","Online Video",9,128,184,146,NULL,NULL,NULL
+"128_185_146","National","Consumer","Magazine",9,128,185,146,NULL,NULL,NULL
+"128_65_146","National","Consumer","Newspaper",9,128,65,146,NULL,NULL,NULL
+"128_67_146","National","Consumer","Direct Mail",9,128,67,146,NULL,NULL,NULL
+"129_186_146","National","Retail Total","Trade Magazine",9,129,186,146,NULL,NULL,NULL
+"130_181_146","National","Card Total","Television",9,130,181,146,NULL,NULL,NULL
+"131_181_146","National","Business","Television",9,131,181,146,NULL,NULL,NULL
+"131_182_146","National","Business","Paid Search",9,131,182,146,NULL,NULL,NULL
+"131_183_146","National","Business","Online Display",9,131,183,146,NULL,NULL,NULL
+"131_184_146","National","Business","Online Video",9,131,184,146,NULL,NULL,NULL
+"131_65_146","National","Business","Newspaper",9,131,65,146,NULL,NULL,NULL
+"131_72_146","National","Business","Radio",9,131,72,146,NULL,NULL,NULL
+"195_183_146","National","Corporate","Online Display",9,195,183,146,NULL,NULL,NULL
+"196_72_146","National","JMC","Radio",9,196,72,146,NULL,NULL,NULL
+"197_181_146","National","Retail Mortgage","Television",9,197,181,146,NULL,NULL,NULL
+"198_182_146","National","Consumer & XLB","Paid Search",9,198,182,146,NULL,NULL,NULL
+"199_181_146","National","Business Total","Television",9,199,181,146,NULL,NULL,NULL
+"200_180_146","National","Mariott","Affiliates",9,200,180,146,NULL,NULL,NULL
+"200_182_146","National","Mariott","Paid Search",9,200,182,146,NULL,NULL,NULL
+"200_67_146","National","Mariott","Direct Mail",9,200,67,146,NULL,NULL,NULL
+"201_182_146","National","United","Paid Search",9,201,182,146,NULL,NULL,NULL
+"201_67_146","National","United","Direct Mail",9,201,67,146,NULL,NULL,NULL
