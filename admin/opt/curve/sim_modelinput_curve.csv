@@ -22,7 +22,7 @@ Business Savings - New Savings Accounts,Direct Mail,Consumer,overall,3,0.15,1912
 Business Savings - New Savings Accounts,Online Display,Business,overall,0.3,0.15,39670496,0.01,1,National,151,52933
 Consumer Checking - New Checking Accounts,Trade Magazine,Retail Total,overall,0.5,0.15,12467,1,1,National,65,3661
 Consumer Checking - New Checking Accounts,Newspaper,Consumer,overall,4,0.45,28300,1,1,National,116,7051
-Consumer Checking - New Checking Accounts,Online Video,Consumer,overall,0.3,0.15,50688024,0.01,1,National,154,277804
+Consumer Checking - New Checking Accounts,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,154,277804
 Consumer Checking - New Checking Accounts,Magazine,Consumer,overall,0.3,0.45,117733,1,1,National,240,42069
 Consumer Checking - New Checking Accounts,Television,Retail Mortgage,overall,3,0.3,951,107.38,1,National,299,32836
 Consumer Checking - New Checking Accounts,Online Display,Consumer,overall,0.5,0.15,45145360,0.01,1,National,626,154641
@@ -40,7 +40,7 @@ Consumer Checking - Total Balances,Direct Mail,Consumer,overall,3,0.15,19128548,
 Consumer Savings - New Savings Accounts,Trade Magazine,Retail Total,overall,0.5,0.15,12467,1,1,National,33,3661
 Consumer Savings - New Savings Accounts,Newspaper,Consumer,overall,4,0.6,28300,1,1,National,120,7051
 Consumer Savings - New Savings Accounts,Television,Retail Mortgage,overall,1.5,0.3,951,107.38,1,National,223,32836
-Consumer Savings - New Savings Accounts,Online Video,Consumer,overall,0.3,0.15,50688024,0.01,1,National,290,277804
+Consumer Savings - New Savings Accounts,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,290,277804
 Consumer Savings - New Savings Accounts,Online Display,Consumer,overall,0.5,0.15,45145360,0.01,1,National,530,154641
 Consumer Savings - New Savings Accounts,Television,Card Total,overall,0.3,0.15,32086,105.13,1,National,645,1263047
 Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,overall,3,0.15,1262917,2.31,1,National,1036,294396
@@ -48,7 +48,7 @@ Consumer Savings - New Savings Accounts,Television,Consumer,overall,4,0.15,18988
 Consumer Savings - New Savings Accounts,Direct Mail,Consumer,overall,1.5,0.15,19128548,0.47,1,National,5120,1840416
 Consumer Savings - Total Balances,Newspaper,Consumer,overall,3,0.6,28300,1,1,National,2028528,7051
 Consumer Savings - Total Balances,Online Display,Consumer,overall,0.3,0.15,45145360,0.01,1,National,11067236,154641
-Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.3,50688024,0.01,1,National,21764955,277804
+Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,21764955,277804
 Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2.31,1,National,19368569,294396
 Consumer Savings - Total Balances,Magazine,Consumer,overall,3,0.6,117733,1,1,National,9095666,42069
 Consumer Savings - Total Balances,Television,Consumer,overall,3,0.15,18988,145.38,1,National,33669186,1225856
