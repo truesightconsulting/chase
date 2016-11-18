@@ -14,7 +14,7 @@ Business Savings - New Savings Accounts,Radio,JMC,overall,1.5,0.05,5,1825,1,Nati
 Business Savings - New Savings Accounts,Online Display,Consumer,overall,0.3,0.01,7351081,0.01,1,National,13,43183
 Business Savings - New Savings Accounts,Newspaper,Business,overall,1.5,0.15,9855,1,1,National,13,1011
 Business Savings - New Savings Accounts,Paid Search,Business,overall,0.5,0.15,1883,2,1,National,15,1263
-Business Savings - New Savings Accounts,Paid Search,Consumer,overall,0.3,0.15,335809,2,1,National,24,77223
+Business Savings - New Savings Accounts,Paid Search,Consumer,overall,0.3,0.15,335809,2.3,1,National,24,77223
 Business Savings - New Savings Accounts,Television,Consumer,overall,4,0.3,18745,146,1,National,30,1212804
 Business Savings - New Savings Accounts,Online Video,Ink,overall,0.5,0.01,6404335,0.01,1,National,36,31902
 Business Savings - New Savings Accounts,Radio,Business,overall,0.3,0.01,1593,461,1,National,50,122992
@@ -27,32 +27,32 @@ Consumer Checking - New Checking Accounts,Magazine,Consumer,overall,0.3,0.01,117
 Consumer Checking - New Checking Accounts,Television,Retail Mortgage,overall,3,0.3,951,107,1,National,299,32836
 Consumer Checking - New Checking Accounts,Online Display,Consumer,overall,0.5,0.01,45145360,0.01,1,National,626,154641
 Consumer Checking - New Checking Accounts,Television,Consumer,overall,6,0.15,18988,145,1,National,2086,1225856
-Consumer Checking - New Checking Accounts,Paid Search,Consumer & XLB,overall,0.3,0.01,1262917,2,1,National,2425,294396
+Consumer Checking - New Checking Accounts,Paid Search,Consumer & XLB,overall,0.3,0.01,1262917,2.3,1,National,2425,294396
 Consumer Checking - New Checking Accounts,Television,Card Total,overall,4,0.3,32086,105,1,National,3056,1263047
 Consumer Checking - New Checking Accounts,Direct Mail,Consumer,overall,4,0.15,19128548,0.01,1,National,8749,1840416
 Consumer Checking - Total Balances,Newspaper,Consumer,overall,0.3,0.15,28300,1,1,National,1154252,7051
 Consumer Checking - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,1,National,1640170,154641
 Consumer Checking - Total Balances,Magazine,Consumer,overall,0.5,0.15,117733,1,1,National,3940103,42069
-Consumer Checking - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2,1,National,5226389,294396
+Consumer Checking - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2.3,1,National,5226389,294396
 Consumer Checking - Total Balances,Television,Business Total,overall,0.3,0.15,10799,96,1,National,7703605,368892
 Consumer Checking - Total Balances,Television,Consumer,overall,4,0.15,18988,145,1,National,15231635,1225856
 Consumer Checking - Total Balances,Direct Mail,Consumer,overall,3,0.15,19128548,0.01,1,National,25791105,1840416
 Consumer Savings - New Savings Accounts,Trade Magazine,Retail Total,overall,0.5,0.03,12467,1,1,National,33,3661
 Consumer Savings - New Savings Accounts,Newspaper,Consumer,overall,4,0.15,28300,1,1,National,120,7051
 Consumer Savings - New Savings Accounts,Television,Retail Mortgage,overall,1.5,0.3,951,107,1,National,223,32836
-Consumer Savings - New Savings Accounts,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,290,277804
+Consumer Savings - New Savings Accounts,Online Video,Consumer,overall,0.3,0.15,50688024,0.01,1,National,290,277804
 Consumer Savings - New Savings Accounts,Online Display,Consumer,overall,0.5,0.01,45145360,0.01,1,National,530,154641
 Consumer Savings - New Savings Accounts,Television,Card Total,overall,0.3,0.15,32086,105,1,National,645,1263047
-Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,overall,3,0.01,1262917,2,1,National,1036,294396
+Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,overall,3,0.01,1262917,2.3,1,National,1036,294396
 Consumer Savings - New Savings Accounts,Television,Consumer,overall,4,0.15,18988,145,1,National,1595,1225856
 Consumer Savings - New Savings Accounts,Direct Mail,Consumer,overall,1.5,0.15,19128548,0.01,1,National,5120,1840416
 Consumer Savings - Total Balances,Newspaper,Consumer,overall,3,0.15,28300,1,1,National,2028528,7051
 Consumer Savings - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,1,National,11067236,154641
-Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,21764955,277804
-Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2,1,National,19368569,294396
+Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,,1,National,21764955,277804
+Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2.3,1,National,19368569,294396
 Consumer Savings - Total Balances,Magazine,Consumer,overall,3,0.15,117733,1,1,National,9095666,42069
-Consumer Savings - Total Balances,Television,Consumer,overall,6,0.1,18988,145,1,National,33669186,1225856
-Consumer Savings - Total Balances,Direct Mail,Consumer,overall,1.5,0.1,19128548,1,1,National,92502811,1840416
+Consumer Savings - Total Balances,Television,Consumer,overall,6,0.1,18988,145.4,1,National,33669186,1225856
+Consumer Savings - Total Balances,Direct Mail,Consumer,overall,1.5,0.1,19128548,0.5,1,National,92502811,1840416
 Marriott Card - New Applications,Outdoor,Partner,overall,6,0.15,529332,1,1,National,13,389161
 Marriott Card - New Applications,Television,Sapphire,overall,0.5,0.15,19848,76,1,National,37,409938
 Marriott Card - New Applications,Direct Mail,Mariott,overall,0.5,0.01,1125786,0.01,1,National,66,174050

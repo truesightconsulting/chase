@@ -14,7 +14,7 @@
 "Business Savings - New Savings Accounts","Online Display","Consumer","overall",0.3,0.01,7351081,0.01,1,"National",13,43183,207.362283719637,207.362283719637,0.0626922107859141,1.49928367636211e-06
 "Business Savings - New Savings Accounts","Newspaper","Business","overall",1.5,0.15,9855,1,1,"National",13,1011,55.2130018482433,55.2130018482433,0.235451787891037,0.000265549151353866
 "Business Savings - New Savings Accounts","Paid Search","Business","overall",0.5,0.15,1883,2,1,"National",15,1263,31.1793522861713,31.1793522861713,0.481087607668258,0.000519414260464732
-"Business Savings - New Savings Accounts","Paid Search","Consumer","overall",0.3,0.15,335809,2,1,"National",24,77223,130.100782973375,130.100782973375,0.184472371737468,2.64066377336977e-06
+"Business Savings - New Savings Accounts","Paid Search","Consumer","overall",0.3,0.15,335809,2.3,1,"National",24,77223,147.57914687819,147.57914687819,0.162624601833546,2.29831532911461e-06
 "Business Savings - New Savings Accounts","Television","Consumer","overall",4,0.3,18745,146,1,"National",30,1212804,32.20209082406,32.20209082406,0.931616526514028,2.21191890796005e-06
 "Business Savings - New Savings Accounts","Online Video","Ink","overall",0.5,0.01,6404335,0.01,1,"National",36,31902,595.602078040413,595.602078040413,0.0604430396187391,1.95432366519397e-06
 "Business Savings - New Savings Accounts","Radio","Business","overall",0.3,0.01,1593,461,1,"National",50,122992,2729.30636607039,2729.30636607039,0.0183196729475222,1.5033137243078e-07
@@ -27,32 +27,32 @@
 "Consumer Checking - New Checking Accounts","Television","Retail Mortgage","overall",3,0.3,951,107,1,"National",299,32836,349.578063968397,349.578063968397,0.855316825677685,5.88746781532745e-05
 "Consumer Checking - New Checking Accounts","Online Display","Consumer","overall",0.5,0.01,45145360,0.01,1,"National",626,154641,14899.6382705088,14899.6382705088,0.0420144428095987,2.77562723511807e-07
 "Consumer Checking - New Checking Accounts","Television","Consumer","overall",6,0.15,18988,145,1,"National",2086,1225856,2828.4003849951,2828.4003849951,0.737519345233582,1.09113786268051e-06
-"Consumer Checking - New Checking Accounts","Paid Search","Consumer & XLB","overall",0.3,0.01,1262917,2,1,"National",2425,294396,189635.793235915,189635.793235915,0.012787670294833,4.3717089693213e-08
+"Consumer Checking - New Checking Accounts","Paid Search","Consumer & XLB","overall",0.3,0.01,1262917,2.3,1,"National",2425,294396,217885.172284112,217885.172284112,0.011129715595506,3.80172091286811e-08
 "Consumer Checking - New Checking Accounts","Television","Card Total","overall",4,0.3,32086,105,1,"National",3056,1263047,3394.65074803081,3394.65074803081,0.900239885287976,1.82494145327218e-06
 "Consumer Checking - New Checking Accounts","Direct Mail","Consumer","overall",4,0.15,19128548,0.01,1,"National",8749,1840416,8749.00022532954,8749.00022532954,0.99999997424511,9.49494098729918e-06
 "Consumer Checking - Total Balances","Newspaper","Consumer","overall",0.3,0.15,28300,1,1,"National",1154252,7051,3251373.86632853,3251373.86632853,0.355004391206289,6.2191429624352e-05
 "Consumer Checking - Total Balances","Online Display","Consumer","overall",0.3,0.01,45145360,0.01,1,"National",1640170,154641,44228047.3359717,44228047.3359717,0.0370843864650116,2.44369214836805e-07
 "Consumer Checking - Total Balances","Magazine","Consumer","overall",0.5,0.15,117733,1,1,"National",3940103,42069,7846926.02240087,7846926.02240087,0.502120574190717,1.65774643590608e-05
-"Consumer Checking - Total Balances","Paid Search","Consumer & XLB","overall",0.3,0.15,1262917,2,1,"National",5226389,294396,27989160.0630655,27989160.0630655,0.186729040393632,7.02084747456881e-07
+"Consumer Checking - Total Balances","Paid Search","Consumer & XLB","overall",0.3,0.15,1262917,2.3,1,"National",5226389,294396,31743692.5264158,31743692.5264158,0.164643385316652,6.11069993655992e-07
 "Consumer Checking - Total Balances","Television","Business Total","overall",0.3,0.15,10799,96,1,"National",7703605,368892,16617597.2604901,16617597.2604901,0.463581159131594,1.68840745673534e-06
 "Consumer Checking - Total Balances","Television","Consumer","overall",4,0.15,18988,145,1,"National",15231635,1225856,21008282.0535066,21008282.0535066,0.725030012506786,1.05321777081459e-06
 "Consumer Checking - Total Balances","Direct Mail","Consumer","overall",3,0.15,19128548,0.01,1,"National",25791105,1840416,25791105.8612867,25791105.8612867,0.999999966605284,9.35379182749892e-06
 "Consumer Savings - New Savings Accounts","Trade Magazine","Retail Total","overall",0.5,0.03,12467,1,1,"National",33,3661,313.921921086122,313.921921086122,0.105121680849254,3.0338029556493e-05
 "Consumer Savings - New Savings Accounts","Newspaper","Consumer","overall",4,0.15,28300,1,1,"National",120,7051,230.887825197985,230.887825197985,0.519732904483382,0.000104015441901515
 "Consumer Savings - New Savings Accounts","Television","Retail Mortgage","overall",1.5,0.3,951,107,1,"National",223,32836,271.982637311662,271.982637311662,0.819905278528742,5.22071000154315e-05
-"Consumer Savings - New Savings Accounts","Online Video","Consumer","overall",0.3,0.01,50688024,0.01,1,"National",290,277804,4946.68866090434,4946.68866090434,0.0586250762640442,2.17469106183074e-07
+"Consumer Savings - New Savings Accounts","Online Video","Consumer","overall",0.3,0.15,50688024,0.01,1,"National",290,277804,472.587983536707,472.587983536707,0.613642348308831,3.42324725246042e-06
 "Consumer Savings - New Savings Accounts","Online Display","Consumer","overall",0.5,0.01,45145360,0.01,1,"National",530,154641,12614.7097178429,12614.7097178429,0.0420144428095987,2.77562723511807e-07
 "Consumer Savings - New Savings Accounts","Television","Card Total","overall",0.3,0.15,32086,105,1,"National",645,1263047,1341.31225519008,1341.31225519008,0.480872367716193,5.19066595643347e-07
-"Consumer Savings - New Savings Accounts","Paid Search","Consumer & XLB","overall",3,0.01,1262917,2,1,"National",1036,294396,49852.5195238876,49852.5195238876,0.0207812967106624,7.13333972780128e-08
+"Consumer Savings - New Savings Accounts","Paid Search","Consumer & XLB","overall",3,0.01,1262917,2.3,1,"National",1036,294396,57248.2138375326,57248.2138375326,0.0180966344721272,6.20333878379262e-08
 "Consumer Savings - New Savings Accounts","Television","Consumer","overall",4,0.15,18988,145,1,"National",1595,1225856,2199.90893133554,2199.90893133554,0.725030012506786,1.05321777081459e-06
 "Consumer Savings - New Savings Accounts","Direct Mail","Consumer","overall",1.5,0.15,19128548,0.01,1,"National",5120,1840416,5120.00030668853,5120.00030668853,0.9999999400999,9.03631987003884e-06
 "Consumer Savings - Total Balances","Newspaper","Consumer","overall",3,0.15,28300,1,1,"National",2028528,7051,3983358.57853461,3983358.57853461,0.509250663731672,0.000100953311347438
 "Consumer Savings - Total Balances","Online Display","Consumer","overall",0.3,0.01,45145360,0.01,1,"National",11067236,154641,298433843.861533,298433843.861533,0.0370843864650116,2.44369214836805e-07
-"Consumer Savings - Total Balances","Online Video","Consumer","overall",0.3,0.01,50688024,0.01,1,"National",21764955,277804,371256745.184804,371256745.184804,0.0586250762640442,2.17469106183074e-07
-"Consumer Savings - Total Balances","Paid Search","Consumer & XLB","overall",0.3,0.15,1262917,2,1,"National",19368569,294396,103725531.707175,103725531.707175,0.186729040393632,7.02084747456881e-07
+"Consumer Savings - Total Balances","Online Video","Consumer","overall",0.3,0.01,50688024,NA,1,"National",21764955,277804,NA,NA,NA,NA
+"Consumer Savings - Total Balances","Paid Search","Consumer & XLB","overall",0.3,0.15,1262917,2.3,1,"National",19368569,294396,117639521.094329,117639521.094329,0.164643385316652,6.11069993655992e-07
 "Consumer Savings - Total Balances","Magazine","Consumer","overall",3,0.15,117733,1,1,"National",9095666,42069,14298636.2602141,14298636.2602141,0.636121224043489,2.40303905464769e-05
-"Consumer Savings - Total Balances","Television","Consumer","overall",6,0.1,18988,145,1,"National",33669186,1225856,57740007.0322653,57740007.0322653,0.583117109445199,7.13746096298253e-07
-"Consumer Savings - Total Balances","Direct Mail","Consumer","overall",1.5,0.1,19128548,1,1,"National",92502811,1840416,611480387.737218,611480387.737218,0.151276824007891,8.91223531754021e-08
+"Consumer Savings - Total Balances","Television","Consumer","overall",6,0.1,18988,145.4,1,"National",33669186,1225856,57838117.2058343,57838117.2058343,0.582127974190067,7.11812848885072e-07
+"Consumer Savings - Total Balances","Direct Mail","Consumer","overall",1.5,0.1,19128548,0.5,1,"National",92502811,1840416,332863476.114636,332863476.114636,0.277900153179145,1.76912099033655e-07
 "Marriott Card - New Applications","Outdoor","Partner","overall",6,0.15,529332,1,1,"National",13,389161,14.6841563534964,14.6841563534964,0.88530792556595,5.56454617871579e-06
 "Marriott Card - New Applications","Television","Sapphire","overall",0.5,0.15,19848,76,1,"National",37,409938,89.2804528543594,89.2804528543594,0.414424421215213,1.30546575360044e-06
 "Marriott Card - New Applications","Direct Mail","Mariott","overall",0.5,0.01,1125786,0.01,1,"National",66,174050,79.4947885103916,79.4947885103916,0.830243104444167,1.01889565730379e-05
