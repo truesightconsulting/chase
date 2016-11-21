@@ -1,7 +1,6 @@
 "bdgt_id","dma1_name","chan2_name","chan1_name","client_id","chan2_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
 "122_180_146","National","Freedom","Affiliates",9,122,180,146,NULL,NULL,NULL
 "122_181_146","National","Freedom","Television",9,122,181,146,NULL,NULL,NULL
-"122_182_146","National","Freedom","Paid Search",9,122,182,146,NULL,NULL,NULL
 "122_183_146","National","Freedom","Online Display",9,122,183,146,NULL,NULL,NULL
 "122_184_146","National","Freedom","Online Video",9,122,184,146,NULL,NULL,NULL
 "122_67_146","National","Freedom","Direct Mail",9,122,67,146,NULL,NULL,NULL
