@@ -47,25 +47,23 @@ Consumer Savings - New Savings Accounts,Paid Search,Consumer & XLB,overall,3,0.0
 Consumer Savings - New Savings Accounts,Television,Consumer,overall,4,0.15,18988,145,1,National,1595,1225856
 Consumer Savings - New Savings Accounts,Direct Mail,Consumer,overall,1.5,0.15,19128548,0.01,1,National,5120,1840416
 Consumer Savings - Total Balances,Newspaper,Consumer,overall,3,0.15,28300,1,1,National,2028528,7051
-Consumer Savings - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,1,National,11067236,154641
-Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,21764955,277804
-Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2,1,National,19368569,294396
-Consumer Savings - Total Balances,Magazine,Consumer,overall,3,0.15,117733,1,1,National,9095666,42069
-Consumer Savings - Total Balances,Television,Consumer,overall,6,0.1,18988,145,1,National,33669186,1225856
-Consumer Savings - Total Balances,Direct Mail,Consumer,overall,1.5,0.1,19128548,1,1,National,92502811,1840416
-Marriott Card - New Applications,Outdoor,Partner,overall,6,0.15,529332,1,1,National,13,389161
-Marriott Card - New Applications,Television,Sapphire,overall,0.5,0.15,19848,76,1,National,37,409938
-Marriott Card - New Applications,Direct Mail,Mariott,overall,0.5,0.01,1125786,0.01,1,National,66,174050
-Marriott Card - New Applications,Paid Search,Mariott,overall,0.3,0.01,15365,2,1,National,175,18512
-Marriott Card - New Applications,Online Video,Partner,overall,1.5,0.15,12086974,0.01,1,National,176,34170
-Marriott Card - New Applications,Affiliates,Mariott,overall,0.5,0.15,1981,37,1,National,194,20342
-Marriott Card - New Applications,Television,Partner,overall,6,0.15,891,2301,1,National,202,102032
-Marriott Card - New Applications,Online Display,Partner,overall,1.5,0.15,83676019,0.01,1,National,274,137189
-Sapphire Card - New Applications,Magazine,Sapphire,overall,0.3,0.3,152195,1,1,National,79,56410
+Consumer Savings - Total Balances,Online Display,Consumer,overall,0.3,0.01,45145360,0.01,1,National,1.00E+07,154641
+Consumer Savings - Total Balances,Online Video,Consumer,overall,0.3,0.01,50688024,0.01,1,National,2.00E+07,277804
+Consumer Savings - Total Balances,Paid Search,Consumer & XLB,overall,0.3,0.15,1262917,2,1,National,2.00E+07,294396
+Consumer Savings - Total Balances,Magazine,Consumer,overall,3,0.15,117733,1,1,National,9.00E+06,42069
+Consumer Savings - Total Balances,Television,Consumer,overall,6,0.1,18988,145,1,National,3.00E+07,1225856
+Consumer Savings - Total Balances,Direct Mail,Consumer,overall,1.5,0.1,19128548,1,1,National,9.00E+07,1840416
+Marriott Card - New Applications,Television,Sapphire,overall,0.5,0.15,19848,76,1,National,81,409938
+Marriott Card - New Applications,Direct Mail,Mariott,overall,0.5,0.03,1125786,0.01,1,National,66,174050
+Marriott Card - New Applications,Paid Search,Mariott,overall,0.3,0.03,15365,2,1,National,180,18512
+Marriott Card - New Applications,Online Video,Mariott,overall,1.5,0.03,12086974,0.01,1,National,129,20502
+Marriott Card - New Applications,Affiliates,Mariott,overall,0.5,0.15,1981,37,1,National,196,20342
+Marriott Card - New Applications,Online Display,Mariott,overall,1.5,0.15,83676019,0.01,1,National,262,126213.88
+Sapphire Card - New Applications,Magazine,Sapphire,overall,0.3,0.01,152195,1,1,National,79,56410
 Sapphire Card - New Applications,Direct Mail,Freedom,overall,0.3,0.01,152195,1,1,National,125,948718
 Sapphire Card - New Applications,Television,Freedom,overall,6,0.15,26053,116,1,National,240,787179
 Sapphire Card - New Applications,Online Display,Sapphire,overall,3,0.03,16335092,0.01,1,National,389,179487
-Sapphire Card - New Applications,Television,Sapphire,overall,0.3,0.3,19848,76,1,National,397,364103
+Sapphire Card - New Applications,Television,Sapphire,overall,0.3,0.15,19848,76,1,National,397,364103
 Sapphire Card - New Applications,Direct Mail,Sapphire,overall,0.3,0.15,1458816,0.01,1,National,682,76923
 Sapphire Card - New Applications,Online Video,Sapphire,overall,3,0.03,19778688,0.01,1,National,688,69231
 Sapphire Card - New Applications,Paid Search,Multicard,overall,6,0.15,163578,2,1,National,1660,254029
